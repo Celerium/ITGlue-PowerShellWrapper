@@ -224,13 +224,13 @@ Contributions are what makes the open-source community such an amazing place to 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-See the [CONTRIBUTING](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/main/.github/CONTRIBUTING.md) guide for more information about contributing.
+See the [CONTRIBUTING](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/CONTRIBUTING.md) guide for more information about contributing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
-Distributed under the Apache-2.0 license. See [`LICENSE`](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/main/LICENSE) for more information.
+Distributed under the Apache-2.0 license. See [LICENSE](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE) for more information.
 
 [![GitHub_License][GitHub_License-shield]][GitHub_License-url]
 
@@ -246,7 +246,7 @@ Distributed under the Apache-2.0 license. See [`LICENSE`](https://github.com/Cel
 [GitHub_Pages-url]:                 https://github.com/Celerium/ITGlue-PowerShellWrapper/actions/workflows/pages/pages-build-deployment
 
 [GitHub_License-shield]:            https://img.shields.io/github/license/celerium/ITGlue-PowerShellWrapper?style=for-the-badge
-[GitHub_License-url]:               https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/main/LICENSE
+[GitHub_License-url]:               https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE
 
 [PoshGallery_Version-shield]:       https://img.shields.io/powershellgallery/v/ITGlueapi?include_prereleases&style=for-the-badge
 [PoshGallery_Version-url]:          https://www.powershellgallery.com/packages/ITGlueAPI

@@ -12367,12 +12367,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>Online Version:</maml:linkText>
+        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html</maml:linkText>
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html</maml:uri>
-      </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ApiCalls/ConvertTo-ITGlueQueryString.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ApiCalls/ConvertTo-ITGlueQueryString.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>

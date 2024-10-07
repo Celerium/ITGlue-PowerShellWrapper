@@ -215,7 +215,7 @@ Describe "Testing the [ $buildTarget ] version of [ $moduleName ] with [ $pester
         }
 
         It "Manifest [ IconUri ] has valid data" {
-            $Module.IconUri  | Should -Be 'https://raw.githubusercontent.com/itglue/powershellwrapper/main/.github/images/PoSHGallery_ITGlueAPI.png'
+            $Module.IconUri  | Should -Be 'https://raw.githubusercontent.com/itglue/powershellwrapper/master/.github/images/PoSHGallery_ITGlueAPI.png'
         }
 
         It "Manifest [ ReleaseNotes ] has valid data" {

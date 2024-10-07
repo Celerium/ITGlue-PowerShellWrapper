@@ -324,7 +324,7 @@ Some functions will handle more than one endpoint and the numbers below show the
 | POST       | xpostCountx         |
 | PUT        | xputCountx          |
 
-Have a look around and if you would like to contribute please read over the [Contributing guide](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/main/.github/CONTRIBUTING.md)
+Have a look around and if you would like to contribute please read over the [Contributing guide](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/CONTRIBUTING.md)
 "@
         }
 

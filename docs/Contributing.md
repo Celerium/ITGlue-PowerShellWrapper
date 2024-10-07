@@ -4,7 +4,7 @@ parent: Home
 nav_order: 3
 ---
 
-[Source Contributing Guide](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/main/.github/CONTRIBUTING.md)
+[Source Contributing Guide](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/CONTRIBUTING.md)
 
 ---
 
