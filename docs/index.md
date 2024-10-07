@@ -11,7 +11,7 @@ nav_order: 1
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/itglue/powershellwrapper"><img src="https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGitHub_ITGlueAPI.png" alt="ITGlueAPI" width="200"></a>
+  <a href="https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGallery_ITGlueAPI.png" alt="ITGlueAPI" width="200"></a>
   <br>
   ITGlueAPI
   <br>
@@ -30,7 +30,6 @@ nav_order: 1
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-[![Blog][Website-shield]][Website-url]
 [![GitHub_License][GitHub_License-shield]][GitHub_License-url]
 
 ---
@@ -268,9 +267,6 @@ Distributed under the Apache-2.0 license. See [`LICENSE`](https://github.com/Cel
 
 [PoshGallery_Downloads-shield]:     https://img.shields.io/powershellgallery/dt/ITGlueAPI?style=for-the-badge
 [PoshGallery_Downloads-url]:        https://www.powershellgallery.com/packages/ITGlueAPI
-
-[website-shield]:                   https://img.shields.io/website?up_color=blue&url=https%3A%2F%2Fitglue.com&style=for-the-badge&label=Blog
-[website-url]:                      https://itglue.com
 
 [codeSize-shield]:                  https://img.shields.io/github/repo-size/celerium/ITGlue-PowerShellWrapper?style=for-the-badge
 [codeSize-url]:                     https://github.com/Celerium/ITGlue-PowerShellWrapper

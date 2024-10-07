@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/itglue/powershellwrapper"><img src="https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGitHub_ITGlueAPI.png" alt="ITGlueAPI" width="200"></a>
+  <a href="https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGallery_ITGlueAPI.png" alt="ITGlueAPI" width="200"></a>
   <br>
   ITGlueAPI
   <br>

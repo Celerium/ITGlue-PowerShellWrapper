@@ -94,7 +94,7 @@ try {
     $parameters = @{
         moduleName      = $moduleName
         helpDocsPath    = Join-Path -Path $rootPath -ChildPath 'docs'
-        csvFilePath     = Join-Path -Path $rootPath -ChildPath 'docs\Endpoints.csv'
+        csvFilePath     = Join-Path -Path $rootPath -ChildPath 'docs\endpoints.csv'
         githubPageUri   = $githubPageUri
         verbose         = $true
     }
