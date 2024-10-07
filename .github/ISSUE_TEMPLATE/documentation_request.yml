@@ -9,7 +9,7 @@ body:
     id: ReadME
     attributes:
       label: Project README
-      description: "[Project README](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/main/README.md)"
+      description: "[Project README](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/README.md)"
       options:
         - label: "Have you read the projects README?"
   - type: checkboxes

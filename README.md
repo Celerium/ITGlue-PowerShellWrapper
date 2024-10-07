@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/itglue/powershellwrapper"><img src="https://raw.githubusercontent.com/Celerium/ITGlue-PowerShellWrapper/main/.github/images/PoSHGallery_ITGlueAPI.png" alt="ITGlueAPI" width="200"></a>
+  <a href="https://github.com/itglue/powershellwrapper"><img src="https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGitHub_ITGlueAPI.png" alt="ITGlueAPI" width="200"></a>
   <br>
   ITGlueAPI
   <br>
@@ -19,7 +19,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-[![Blog][Website-shield]][Website-url]
 [![GitHub_License][GitHub_License-shield]][GitHub_License-url]
 
 ---
@@ -52,8 +51,8 @@ Get-ITGluePassword -OrganizationID 8675309
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://celerium.org">
-    <img src="https://raw.githubusercontent.com/Celerium/ITGlue-PowerShellWrapper/main/.github/images/PoSHGitHub_ITGlueAPI.png" alt="Logo">
+  <a href="https://itglue.com">
+    <img src="https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGitHub_ITGlueAPI.png" alt="Logo">
   </a>
 
   <p align="center">
@@ -240,8 +239,8 @@ Distributed under the Apache-2.0 license. See [`LICENSE`](https://github.com/Cel
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Az_Pipeline-shield]:               https://img.shields.io/azure-devops/build/AzCelerium/ITGlueAPI/6?style=for-the-badge&label=DevOps_Build
-[Az_Pipeline-url]:                  https://dev.azure.com/AzCelerium/ITGlueAPI/_build?definitionId=6
+[Az_Pipeline-shield]:               https://img.shields.io/azure-devops/build/AzCelerium/ITGlueAPI/10?style=for-the-badge&label=DevOps_Build
+[Az_Pipeline-url]:                  https://dev.azure.com/AzCelerium/ITGlueAPI/_build?definitionId=10
 
 [GitHub_Pages-shield]:              https://img.shields.io/github/actions/workflow/status/celerium/ITGlue-PowerShellWrapper/pages%2Fpages-build-deployment?style=for-the-badge&label=GitHub%20Pages
 [GitHub_Pages-url]:                 https://github.com/Celerium/ITGlue-PowerShellWrapper/actions/workflows/pages/pages-build-deployment
@@ -257,9 +256,6 @@ Distributed under the Apache-2.0 license. See [`LICENSE`](https://github.com/Cel
 
 [PoshGallery_Downloads-shield]:     https://img.shields.io/powershellgallery/dt/ITGlueAPI?style=for-the-badge
 [PoshGallery_Downloads-url]:        https://www.powershellgallery.com/packages/ITGlueAPI
-
-[website-shield]:                   https://img.shields.io/website?up_color=blue&url=https%3A%2F%2Fcelerium.org&style=for-the-badge&label=Blog
-[website-url]:                      https://celerium.org
 
 [codeSize-shield]:                  https://img.shields.io/github/repo-size/celerium/ITGlue-PowerShellWrapper?style=for-the-badge
 [codeSize-url]:                     https://github.com/Celerium/ITGlue-PowerShellWrapper

@@ -4,8 +4,5 @@ contact_links:
     url: https://celerium.github.io/ITGlue-PowerShellWrapper/
     about: Read through the generated documentation
   - name: Vendor Documentation
-    url: https://github.com/Celerium
+    url: https://api.itglue.com/developer
     about: Read through the vendors documentation
-  - name: Celerium.org
-    url: https://celerium.org
-    about: Website were I publish more information related to this project.
