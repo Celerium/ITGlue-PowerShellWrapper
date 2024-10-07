@@ -176,7 +176,7 @@ else {
             }
             catch {
                 Write-Error "ERROR: The IT Glue API PowerShell module cannot be imported."
-                Write-Error "Please download it from https://github.com/itglue/powershellwrapper, configure it, and try again."
+                Write-Error "Please download it from https://github.com/Celerium/ITGlue-PowerShellWrapper, configure it, and try again."
             }
 
             if(test-path $api) {

@@ -35,7 +35,7 @@ function ConvertTo-ITGlueQueryString {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding()]
@@ -124,7 +124,7 @@ function Invoke-ITGlueRequest {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 
 #>
 
@@ -292,7 +292,7 @@ function Add-ITGlueAPIKey {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 
 #>
 
@@ -360,7 +360,7 @@ function Get-ITGlueAPIKey {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 
 #>
 
@@ -429,7 +429,7 @@ function Remove-ITGlueAPIKey {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 
 #>
 
@@ -502,7 +502,7 @@ function Test-ITGlueAPIKey {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 
 #>
 
@@ -613,7 +613,7 @@ function Add-ITGlueBaseURI {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueBaseURI.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding()]
@@ -671,7 +671,7 @@ function Get-ITGlueBaseURI {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding()]
@@ -715,7 +715,7 @@ function Remove-ITGlueBaseURI {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding(SupportsShouldProcess, ConfirmImpact = 'None')]
@@ -790,7 +790,7 @@ function Export-ITGlueModuleSetting {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Set')]
@@ -897,7 +897,7 @@ function Get-ITGlueModuleSetting {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -993,7 +993,7 @@ function Import-ITGlueModuleSetting {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Set')]
@@ -1100,7 +1100,7 @@ function Remove-ITGlueModuleSetting {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Destroy',SupportsShouldProcess)]

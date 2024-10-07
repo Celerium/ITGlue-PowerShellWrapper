@@ -47,7 +47,7 @@ function Import-ITGlueModuleSetting {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Set')]

@@ -70,7 +70,7 @@
         https://api.itglue.com/developer/#passwords
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 
 #>
 

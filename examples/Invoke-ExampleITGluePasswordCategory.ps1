@@ -49,7 +49,7 @@
         https://api.itglue.com/developer/#password-categories
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
 <############################################################################################

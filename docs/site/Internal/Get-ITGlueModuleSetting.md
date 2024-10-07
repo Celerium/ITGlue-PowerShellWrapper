@@ -117,5 +117,5 @@ N/A
 
 [https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html)
 
-[https://github.com/itglue/powershellwrapper](https://github.com/itglue/powershellwrapper)
+[https://github.com/Celerium/ITGlue-PowerShellWrapper](https://github.com/Celerium/ITGlue-PowerShellWrapper)
 

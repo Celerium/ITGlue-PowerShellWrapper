@@ -12177,8 +12177,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12298,8 +12298,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12371,8 +12371,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12477,8 +12477,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12553,8 +12553,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12598,8 +12598,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12729,8 +12729,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12837,8 +12837,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13058,8 +13058,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13150,8 +13150,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13242,8 +13242,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13395,8 +13395,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13477,8 +13477,8 @@
         <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
-        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
+        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
+        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>

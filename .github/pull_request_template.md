@@ -6,7 +6,7 @@ Please include a summary of any changes. Please also include relevant motivation
 
 Fixes: #12345
 
-Fixes: <https://github.com/itglue/powershellwrapper/issues/12345>
+Fixes: <https://github.com/Celerium/ITGlue-PowerShellWrapper/issues/12345>
 
 ## Type of change
 

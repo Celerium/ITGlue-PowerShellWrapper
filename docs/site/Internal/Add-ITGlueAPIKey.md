@@ -80,5 +80,5 @@ N/A
 
 [https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html)
 
-[https://github.com/itglue/powershellwrapper](https://github.com/itglue/powershellwrapper)
+[https://github.com/Celerium/ITGlue-PowerShellWrapper](https://github.com/Celerium/ITGlue-PowerShellWrapper)
 

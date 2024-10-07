@@ -4,7 +4,7 @@ Getting accurate information for active file shares is crucial to properly suppo
 
 ## Setup Instructions
 
-:warning: If you intend to use this script's API functionality, make sure you have installed the [IT Glue PowerShell Module](https://github.com/itglue/powershellwrapper)
+:warning: If you intend to use this script's API functionality, make sure you have installed the [IT Glue PowerShell Module](https://github.com/Celerium/ITGlue-PowerShellWrapper)
 
 :warning: Make sure your File Share flexible asset type in IT Glue has fields corresponding to the ones outlined in `FileShares.flexasset`, as that is the data that this script is capable of finding.
 

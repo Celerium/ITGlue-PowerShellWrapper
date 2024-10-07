@@ -164,7 +164,7 @@ Describe "Testing the [ $buildTarget ] version of [ $moduleName ] with [ $pester
         }
 
         It "Manifest [ Copyright ] has valid data" {
-            $Module.Copyright | Should -Be 'https://github.com/itglue/powershellwrapper/blob/master/LICENSE'
+            $Module.Copyright | Should -Be 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE'
         }
 
         It "Manifest [ Description ] is not empty" {
@@ -207,11 +207,11 @@ Describe "Testing the [ $buildTarget ] version of [ $moduleName ] with [ $pester
         }
 
         It "Manifest [ LicenseUri ] has valid data" {
-            $Module.LicenseUri | Should -Be 'https://github.com/itglue/powershellwrapper/blob/master/LICENSE'
+            $Module.LicenseUri | Should -Be 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE'
         }
 
         It "Manifest [ ProjectUri ] has valid data" {
-            $Module.ProjectUri  | Should -Be 'https://github.com/itglue/powershellwrapper'
+            $Module.ProjectUri  | Should -Be 'https://github.com/Celerium/ITGlue-PowerShellWrapper'
         }
 
         It "Manifest [ IconUri ] has valid data" {
@@ -219,7 +219,7 @@ Describe "Testing the [ $buildTarget ] version of [ $moduleName ] with [ $pester
         }
 
         It "Manifest [ ReleaseNotes ] has valid data" {
-            $Module.ReleaseNotes  | Should -Be 'https://github.com/itglue/powershellwrapper/blob/master/README.md'
+            $Module.ReleaseNotes  | Should -Be 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/README.md'
         }
 
         It "Manifest [ HelpInfoUri ] is not empty" {

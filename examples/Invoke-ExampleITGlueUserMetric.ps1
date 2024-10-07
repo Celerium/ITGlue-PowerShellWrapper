@@ -54,7 +54,7 @@
         https://api.itglue.com/developer/#accounts-user-metrics-daily
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
 <############################################################################################

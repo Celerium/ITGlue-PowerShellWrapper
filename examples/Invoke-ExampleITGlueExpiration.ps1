@@ -45,7 +45,7 @@
         https://api.itglue.com/developer/#expirations
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
 <############################################################################################

@@ -33,7 +33,7 @@ function ConvertTo-ITGlueQueryString {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 #>
 
     [CmdletBinding()]

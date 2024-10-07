@@ -19,7 +19,7 @@ function Remove-ITGlueAPIKey {
         https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/itglue/powershellwrapper
+        https://github.com/Celerium/ITGlue-PowerShellWrapper
 
 #>
 
