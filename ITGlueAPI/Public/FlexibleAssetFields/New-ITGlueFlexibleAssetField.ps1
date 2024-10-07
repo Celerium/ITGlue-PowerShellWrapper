@@ -26,7 +26,7 @@ function New-ITGlueFlexibleAssetField {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-fields-create

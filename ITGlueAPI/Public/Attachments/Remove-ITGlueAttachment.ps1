@@ -33,7 +33,7 @@ function Remove-ITGlueAttachment {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html
 
     .LINK
         https://api.itglue.com/developer/#attachments-bulk-destroy

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Passwords
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGluePassword
@@ -254,7 +254,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html)
 
 [https://api.itglue.com/developer/#passwords-destroy](https://api.itglue.com/developer/#passwords-destroy)
 

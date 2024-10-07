@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Organizations
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueOrganization
@@ -357,7 +357,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html)
 
 [https://api.itglue.com/developer/#organizations-bulk-destroy](https://api.itglue.com/developer/#organizations-bulk-destroy)
 

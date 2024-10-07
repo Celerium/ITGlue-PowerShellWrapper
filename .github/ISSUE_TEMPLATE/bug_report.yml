@@ -2,8 +2,7 @@ name: 🐛 Bug Report
 description: File a bug report to help us improve
 title: "[Bug]: "
 labels: ["type: bug"]
-assignees:
-  - Celerium
+
 body:
   - type: markdown
     attributes:
@@ -82,7 +81,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/CODE_OF_CONDUCT.md)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/itglue/powershellwrapper/blob/master/.github/CODE_OF_CONDUCT.md)
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true

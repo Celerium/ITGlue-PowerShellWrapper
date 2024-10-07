@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Platforms
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGluePlatform
@@ -173,7 +173,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html)
 
 [https://api.itglue.com/developer/#platforms-index](https://api.itglue.com/developer/#platforms-index)
 

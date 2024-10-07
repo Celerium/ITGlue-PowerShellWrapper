@@ -4,7 +4,7 @@ Getting accurate information for DHCP is crucial to properly support your client
 
 ## Setup Instructions
 
-:warning: If you intend to use this script's API functionality, make sure you have installed the [IT Glue PowerShell Module](https://github.com/Celerium/ITGlue-PowerShellWrapper)
+:warning: If you intend to use this script's API functionality, make sure you have installed the [IT Glue PowerShell Module](https://github.com/itglue/powershellwrapper)
 
 :warning: Make sure your DHCP flexible asset type in IT Glue has fields corresponding to the ones outlined in `DHCP.flexasset`, as that is the data that this script is capable of finding.
 

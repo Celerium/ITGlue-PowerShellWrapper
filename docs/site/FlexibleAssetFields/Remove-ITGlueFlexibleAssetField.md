@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: FlexibleAssetFields
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueFlexibleAssetField
@@ -113,7 +113,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html)
 
 [https://api.itglue.com/developer/#flexible-asset-fields-destroy](https://api.itglue.com/developer/#flexible-asset-fields-destroy)
 

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Manufacturers
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html
 parent: POST
 schema: 2.0.0
 title: New-ITGlueManufacturer
@@ -94,7 +94,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html)
 
 [https://api.itglue.com/developer/#manufacturers-create](https://api.itglue.com/developer/#manufacturers-create)
 

@@ -46,7 +46,7 @@
         https://api.itglue.com/developer/#platforms
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
 <############################################################################################

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Attachments
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGlueAttachment
@@ -150,7 +150,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html)
 
 [https://api.itglue.com/developer/#attachments-update](https://api.itglue.com/developer/#attachments-update)
 

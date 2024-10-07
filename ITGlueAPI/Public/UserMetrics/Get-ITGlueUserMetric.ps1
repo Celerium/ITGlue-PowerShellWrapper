@@ -71,7 +71,7 @@ function Get-ITGlueUserMetric {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/UserMetrics/Get-ITGlueUserMetric.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/UserMetrics/Get-ITGlueUserMetric.html
 
     .LINK
         https://api.itglue.com/developer/#accounts-user-metrics-daily-index

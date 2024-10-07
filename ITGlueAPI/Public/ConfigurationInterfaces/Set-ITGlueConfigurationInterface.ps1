@@ -56,7 +56,7 @@ function Set-ITGlueConfigurationInterface {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-interfaces-update

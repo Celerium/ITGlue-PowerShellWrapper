@@ -26,7 +26,7 @@ function New-ITGlueConfiguration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/new-ITGlueConfiguration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/new-ITGlueConfiguration.html
 
     .LINK
         https://api.itglue.com/developer/#configurations-create

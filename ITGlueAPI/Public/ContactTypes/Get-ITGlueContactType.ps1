@@ -60,7 +60,7 @@ function Get-ITGlueContactType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Get-ITGlueContactType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Get-ITGlueContactType.html
 
     .LINK
         https://api.itglue.com/developer/#contact-types-index

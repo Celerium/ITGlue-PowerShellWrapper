@@ -128,7 +128,7 @@ function Get-ITGlueOrganization {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Get-ITGlueOrganization.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Get-ITGlueOrganization.html
 
     .LINK
         https://api.itglue.com/developer/#organizations-index

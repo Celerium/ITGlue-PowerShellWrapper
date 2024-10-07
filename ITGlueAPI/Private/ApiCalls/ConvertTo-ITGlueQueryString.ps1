@@ -30,10 +30,10 @@ function ConvertTo-ITGlueQueryString {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding()]

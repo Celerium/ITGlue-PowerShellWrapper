@@ -60,7 +60,7 @@ function Get-ITGlueConfigurationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-statuses-index

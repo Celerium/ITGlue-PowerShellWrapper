@@ -60,7 +60,7 @@ function Get-ITGlueOperatingSystem {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html
 
     .LINK
         https://api.itglue.com/developer/#operating-systems-index

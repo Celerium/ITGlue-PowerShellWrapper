@@ -28,7 +28,7 @@ function Set-ITGlueOrganizationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Set-ITGlueOrganizationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Set-ITGlueOrganizationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#organization-statuses-update

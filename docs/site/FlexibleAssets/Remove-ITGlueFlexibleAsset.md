@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: FlexibleAssets
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueFlexibleAsset
@@ -120,7 +120,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html)
 
 [https://api.itglue.com/developer/#flexible-assets-destroy](https://api.itglue.com/developer/#flexible-assets-destroy)
 

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Models
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Set-ITGlueModel.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Set-ITGlueModel.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGlueModel
@@ -150,7 +150,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html)
 
 [https://api.itglue.com/developer/#models-update](https://api.itglue.com/developer/#models-update)
 

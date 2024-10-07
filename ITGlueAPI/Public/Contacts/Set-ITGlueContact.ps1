@@ -73,7 +73,7 @@ function Set-ITGlueContact {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html
 
     .LINK
         https://api.itglue.com/developer/#contacts-update

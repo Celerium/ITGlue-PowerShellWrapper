@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: ConfigurationInterfaces
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueConfigurationInterface
@@ -209,7 +209,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html)
 
 [https://api.itglue.com/developer/#configuration-interfaces-index](https://api.itglue.com/developer/#configuration-interfaces-index)
 

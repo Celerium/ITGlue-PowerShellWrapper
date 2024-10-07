@@ -70,7 +70,7 @@ function Get-ITGlueFlexibleAssetField {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-fields-index

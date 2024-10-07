@@ -50,7 +50,7 @@
     https://vexx32.github.io/2020/07/08/Verify-Module-Help-Pester/
     https://lazywinadmin.com/2016/05/using-pester-to-test-your-comment-based.html
     https://jeffbrown.tech/getting-started-with-pester-testing-in-powershell/
-    https://github.com/Celerium/ITGlue-PowerShellWrapper
+    https://github.com/itglue/powershellwrapper
 
 #>
 

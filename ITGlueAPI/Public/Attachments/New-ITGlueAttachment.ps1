@@ -39,7 +39,7 @@ function New-ITGlueAttachment {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html
 
     .LINK
         https://api.itglue.com/developer/#attachments-create

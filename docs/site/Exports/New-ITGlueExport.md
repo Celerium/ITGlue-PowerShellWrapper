@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Exports
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html
 parent: POST
 schema: 2.0.0
 title: New-ITGlueExport
@@ -155,7 +155,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html)
 
 [https://api.itglue.com/developer/#exports-create](https://api.itglue.com/developer/#exports-create)
 

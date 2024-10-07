@@ -22,7 +22,7 @@ function New-ITGlueContactType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html
 
     .LINK
         https://api.itglue.com/developer/#contact-types-create

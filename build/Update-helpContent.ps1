@@ -57,7 +57,7 @@ function Update-helpContent {
 .PARAMETER githubPageUri
     Base url of the modules github pages
 
-    Example: "https://celerium.github.io/ITGlue-PowerShellWrapper"
+    Example: "https://itglue.github.io/ITGlue-PowerShellWrapper"
 
 .PARAMETER ShowHelpDocs
     Opens the directory with the HelpDocs when completed
@@ -67,7 +67,7 @@ function Update-helpContent {
         -moduleName ITGlueAPI
         -helpDocsPath "C:\Celerium\Projects\ITGlue-PowerShellWrapper\docs"
         -csvFilePath "C:\Celerium\Projects\ITGlue-PowerShellWrapper\docs\Endpoints.csv"
-        -githubPageUri "https://celerium.github.io/ITGlue-PowerShellWrapper"
+        -githubPageUri "https://itglue.github.io/ITGlue-PowerShellWrapper"
 
     Updates markdown docs and external help files
 
@@ -78,7 +78,7 @@ function Update-helpContent {
         -moduleName ITGlueAPI
         -helpDocsPath "C:\Celerium\Projects\ITGlue-PowerShellWrapper\docs"
         -csvFilePath "C:\Celerium\Projects\ITGlue-PowerShellWrapper\docs\Endpoints.csv"
-        -githubPageUri "https://celerium.github.io/ITGlue-PowerShellWrapper"
+        -githubPageUri "https://itglue.github.io/ITGlue-PowerShellWrapper"
         -verbose
 
     Updates markdown docs and external help files
@@ -324,7 +324,7 @@ Some functions will handle more than one endpoint and the numbers below show the
 | POST       | xpostCountx         |
 | PUT        | xputCountx          |
 
-Have a look around and if you would like to contribute please read over the [Contributing guide](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/CONTRIBUTING.md)
+Have a look around and if you would like to contribute please read over the [Contributing guide](https://github.com/itglue/powershellwrapper/blob/master/.github/CONTRIBUTING.md)
 "@
         }
 

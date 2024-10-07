@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: ConfigurationTypes
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGlueConfigurationType
@@ -113,7 +113,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html)
 
 [https://api.itglue.com/developer/#configuration-types-update](https://api.itglue.com/developer/#configuration-types-update)
 

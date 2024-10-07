@@ -25,7 +25,7 @@ function Set-ITGluePasswordCategory {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Set-ITGluePasswordCategory.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Set-ITGluePasswordCategory.html
 
     .LINK
         https://api.itglue.com/developer/#password-categories-update

@@ -27,7 +27,7 @@ function Set-ITGlueFlexibleAsset {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Set-ITGlueFlexibleAsset.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Set-ITGlueFlexibleAsset.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-assets-update

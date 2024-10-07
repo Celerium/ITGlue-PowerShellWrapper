@@ -91,7 +91,7 @@ function Set-ITGlueConfiguration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Set-ITGlueConfiguration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Set-ITGlueConfiguration.html
 
     .LINK
         https://api.itglue.com/developer/#configurations-update

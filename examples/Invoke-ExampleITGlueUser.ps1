@@ -61,7 +61,7 @@
         https://api.itglue.com/developer/#accounts-users
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
 <############################################################################################

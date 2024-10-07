@@ -60,7 +60,7 @@ function Get-ITGluePasswordCategory {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html
 
     .LINK
         https://api.itglue.com/developer/#password-categories-index

@@ -22,7 +22,7 @@ function New-ITGlueConfigurationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/New-ITGlueConfigurationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/New-ITGlueConfigurationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-statuses-create

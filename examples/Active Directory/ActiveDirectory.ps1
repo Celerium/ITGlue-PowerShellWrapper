@@ -20,7 +20,7 @@ Options:
 .NOTES
 Author: Caleb Albers
 
-If you wish to use the -api parameter to upload results directly to IT Glue, make sure you have the IT Glue PowerShell module installed and configured (https://github.com/Celerium/ITGlue-PowerShellWrapper)
+If you wish to use the -api parameter to upload results directly to IT Glue, make sure you have the IT Glue PowerShell module installed and configured (https://github.com/itglue/powershellwrapper)
 
 .LINK
 https://github.com/itglue/automation
@@ -302,7 +302,7 @@ else {
             }
             catch {
                 Write-Error "ERROR: The IT Glue API PowerShell module cannot be imported."
-                Write-Error "Please download it from https://github.com/Celerium/ITGlue-PowerShellWrapper, configure it, and try again."
+                Write-Error "Please download it from https://github.com/itglue/powershellwrapper, configure it, and try again."
             }
 
             if(test-path $api) {

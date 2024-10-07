@@ -22,7 +22,7 @@ function New-ITGluePasswordCategory {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/New-ITGluePasswordCategory.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/New-ITGluePasswordCategory.html
 
     .LINK
         https://api.itglue.com/developer/#password-categories-create

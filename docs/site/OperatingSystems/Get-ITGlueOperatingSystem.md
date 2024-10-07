@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: OperatingSystems
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueOperatingSystem
@@ -173,7 +173,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html)
 
 [https://api.itglue.com/developer/#operating-systems-index](https://api.itglue.com/developer/#operating-systems-index)
 

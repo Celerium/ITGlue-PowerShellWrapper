@@ -66,7 +66,7 @@ function Get-ITGlueExport {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Get-ITGlueExport.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Get-ITGlueExport.html
 
     .LINK
         https://api.itglue.com/developer/#exports-index

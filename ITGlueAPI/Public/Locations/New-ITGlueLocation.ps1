@@ -26,7 +26,7 @@ function New-ITGlueLocation {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/New-ITGlueLocation.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/New-ITGlueLocation.html
 
     .LINK
         https://api.itglue.com/developer/#locations-create

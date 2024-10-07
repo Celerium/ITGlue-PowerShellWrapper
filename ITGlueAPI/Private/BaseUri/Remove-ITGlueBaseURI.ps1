@@ -16,10 +16,10 @@ function Remove-ITGlueBaseURI {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding(SupportsShouldProcess, ConfirmImpact = 'None')]

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Locations
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueLocation
@@ -278,7 +278,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html)
 
 [https://api.itglue.com/developer/#locations-bulk-destroy](https://api.itglue.com/developer/#locations-bulk-destroy)
 

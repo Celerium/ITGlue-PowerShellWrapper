@@ -21,7 +21,7 @@ function New-ITGlueManufacturer {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html
 
     .LINK
         https://api.itglue.com/developer/#manufacturers-create

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Contacts
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueContact
@@ -301,7 +301,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html)
 
 [https://api.itglue.com/developer/#contacts-bulk-destroy](https://api.itglue.com/developer/#contacts-bulk-destroy)
 

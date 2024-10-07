@@ -28,7 +28,7 @@ function Set-ITGlueConfigurationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-types-update

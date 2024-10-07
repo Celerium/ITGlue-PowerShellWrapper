@@ -18,7 +18,7 @@ function Remove-ITGlueExport {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html
 
     .LINK
         https://api.itglue.com/developer/#exports-destroy

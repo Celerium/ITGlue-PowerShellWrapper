@@ -76,7 +76,7 @@ function Remove-ITGlueOrganization {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html
 
     .LINK
         https://api.itglue.com/developer/#organizations-bulk-destroy

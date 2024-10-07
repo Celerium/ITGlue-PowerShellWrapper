@@ -82,7 +82,7 @@ function Remove-ITGlueConfiguration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html
 
     .LINK
         https://api.itglue.com/developer/#configurations-bulk-destroy

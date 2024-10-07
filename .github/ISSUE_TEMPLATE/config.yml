@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: Project Documentation
-    url: https://celerium.github.io/ITGlue-PowerShellWrapper/
+    url: https://itglue.github.io/ITGlue-PowerShellWrapper/
     about: Read through the generated documentation
   - name: Vendor Documentation
     url: https://api.itglue.com/developer

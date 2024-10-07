@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Regions
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueRegion
@@ -221,7 +221,7 @@ function at this time for either parameter set
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html)
 
 [https://api.itglue.com/developer/#regions-index](https://api.itglue.com/developer/#regions-index)
 

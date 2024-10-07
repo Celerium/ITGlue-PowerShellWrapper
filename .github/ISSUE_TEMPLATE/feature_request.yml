@@ -2,21 +2,20 @@ name: 🚀 Feature Request
 description: Suggest a new feature for this project
 title: "[Feature Request]: "
 labels: ["type: feature request"]
-assignees:
-  - Celerium
+
 body:
   - type: checkboxes
     id: ReadME
     attributes:
       label: Project README
-      description: "[Project README](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/README.md)"
+      description: "[Project README](https://github.com/itglue/powershellwrapper/blob/master/README.md)"
       options:
         - label: "Have you read the projects README?"
   - type: checkboxes
     id: WebDocumentation
     attributes:
       label: Online Documentation
-      description: "[Online Documentation](https://Celerium.github.io/ITGlue-PowerShellWrapper/)"
+      description: "[Online Documentation](https://itglue.github.io/ITGlue-PowerShellWrapper/)"
       options:
         - label: "Have you read the online documentation"
   - type: checkboxes

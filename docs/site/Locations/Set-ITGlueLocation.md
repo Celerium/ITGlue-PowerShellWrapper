@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Locations
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGlueLocation
@@ -278,7 +278,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html)
 
 [https://api.itglue.com/developer/#locations-update](https://api.itglue.com/developer/#locations-update)
 

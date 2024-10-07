@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: RelatedItems
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueRelatedItem
@@ -132,7 +132,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html)
 
 [https://api.itglue.com/developer/#related-items-bulk-destroy](https://api.itglue.com/developer/#related-items-bulk-destroy)
 

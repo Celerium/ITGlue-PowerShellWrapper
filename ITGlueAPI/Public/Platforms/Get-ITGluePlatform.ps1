@@ -60,7 +60,7 @@ function Get-ITGluePlatform {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html
 
     .LINK
         https://api.itglue.com/developer/#platforms-index

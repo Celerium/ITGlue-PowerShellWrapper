@@ -86,7 +86,7 @@ function Set-ITGlueOrganization {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html
 
     .LINK
         https://api.itglue.com/developer/#organizations-update

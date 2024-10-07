@@ -54,7 +54,7 @@
     https://vexx32.github.io/2020/07/08/Verify-Module-Help-Pester/
     https://lazywinadmin.com/2016/05/using-pester-to-test-your-comment-based.html
     https://jeffbrown.tech/getting-started-with-pester-testing-in-powershell/
-    https://github.com/Celerium/ITGlue-PowerShellWrapper
+    https://github.com/itglue/powershellwrapper
 
 #>
 
@@ -164,7 +164,7 @@ Describe "Testing the [ $buildTarget ] version of [ $moduleName ] with [ $pester
         }
 
         It "Manifest [ Copyright ] has valid data" {
-            $Module.Copyright | Should -Be 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE'
+            $Module.Copyright | Should -Be 'https://github.com/itglue/powershellwrapper/blob/master/LICENSE'
         }
 
         It "Manifest [ Description ] is not empty" {
@@ -207,19 +207,19 @@ Describe "Testing the [ $buildTarget ] version of [ $moduleName ] with [ $pester
         }
 
         It "Manifest [ LicenseUri ] has valid data" {
-            $Module.LicenseUri | Should -Be 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE'
+            $Module.LicenseUri | Should -Be 'https://github.com/itglue/powershellwrapper/blob/master/LICENSE'
         }
 
         It "Manifest [ ProjectUri ] has valid data" {
-            $Module.ProjectUri  | Should -Be 'https://github.com/Celerium/ITGlue-PowerShellWrapper'
+            $Module.ProjectUri  | Should -Be 'https://github.com/itglue/powershellwrapper'
         }
 
         It "Manifest [ IconUri ] has valid data" {
-            $Module.IconUri  | Should -Be 'https://raw.githubusercontent.com/itglue/powershellwrapper/master/.github/images/PoSHGallery_ITGlueAPI.png'
+            $Module.IconUri  | Should -Be 'https://github.com/itglue/powershellwrapper/blob/master/.github/images/PoSHGallery_ITGlueAPI.png'
         }
 
         It "Manifest [ ReleaseNotes ] has valid data" {
-            $Module.ReleaseNotes  | Should -Be 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/README.md'
+            $Module.ReleaseNotes  | Should -Be 'https://github.com/itglue/powershellwrapper/blob/master/README.md'
         }
 
         It "Manifest [ HelpInfoUri ] is not empty" {

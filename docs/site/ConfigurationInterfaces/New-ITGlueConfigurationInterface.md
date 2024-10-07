@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: ConfigurationInterfaces
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html
 parent: POST
 schema: 2.0.0
 title: New-ITGlueConfigurationInterface
@@ -111,7 +111,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html)
 
 [https://api.itglue.com/developer/#configuration-interfaces-create](https://api.itglue.com/developer/#configuration-interfaces-create)
 

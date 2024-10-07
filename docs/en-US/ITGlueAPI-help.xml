@@ -160,8 +160,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#attachments-create</maml:linkText>
@@ -327,8 +327,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#attachments-bulk-destroy</maml:linkText>
@@ -520,8 +520,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#attachments-update</maml:linkText>
@@ -801,8 +801,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-interfaces-index</maml:linkText>
@@ -942,8 +942,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-interfaces-create</maml:linkText>
@@ -1204,8 +1204,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-interfaces-update</maml:linkText>
@@ -2528,8 +2528,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Get-ITGlueConfiguration.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Get-ITGlueConfiguration.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Get-ITGlueConfiguration.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Get-ITGlueConfiguration.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configurations-index</maml:linkText>
@@ -2669,8 +2669,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/new-ITGlueConfiguration.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/new-ITGlueConfiguration.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/new-ITGlueConfiguration.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/new-ITGlueConfiguration.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configurations-create</maml:linkText>
@@ -3606,8 +3606,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configurations-bulk-destroy</maml:linkText>
@@ -4582,8 +4582,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Set-ITGlueConfiguration.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Set-ITGlueConfiguration.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Set-ITGlueConfiguration.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Set-ITGlueConfiguration.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configurations-update</maml:linkText>
@@ -4796,8 +4796,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-statuses-index</maml:linkText>
@@ -4913,8 +4913,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/New-ITGlueConfigurationStatus.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/New-ITGlueConfigurationStatus.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/New-ITGlueConfigurationStatus.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/New-ITGlueConfigurationStatus.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-statuses-create</maml:linkText>
@@ -5055,8 +5055,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Set-ITGlueConfigurationStatus.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Set-ITGlueConfigurationStatus.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Set-ITGlueConfigurationStatus.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Set-ITGlueConfigurationStatus.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-statuses-update</maml:linkText>
@@ -5269,8 +5269,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Get-ITGlueConfigurationType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Get-ITGlueConfigurationType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Get-ITGlueConfigurationType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Get-ITGlueConfigurationType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-types-index</maml:linkText>
@@ -5386,8 +5386,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/New-ITGlueConfigurationType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/New-ITGlueConfigurationType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/New-ITGlueConfigurationType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/New-ITGlueConfigurationType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-types-create</maml:linkText>
@@ -5528,8 +5528,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#configuration-types-update</maml:linkText>
@@ -6247,8 +6247,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Get-ITGlueContact.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Get-ITGlueContact.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Get-ITGlueContact.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Get-ITGlueContact.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#contacts-index</maml:linkText>
@@ -6389,8 +6389,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/New-ITGlueContact.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/New-ITGlueContact.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/New-ITGlueContact.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/New-ITGlueContact.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#contacts-create</maml:linkText>
@@ -6962,8 +6962,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#contacts-bulk-destroy</maml:linkText>
@@ -7556,8 +7556,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#contacts-update</maml:linkText>
@@ -7770,8 +7770,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Get-ITGlueContactType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Get-ITGlueContactType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Get-ITGlueContactType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Get-ITGlueContactType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#contact-types-index</maml:linkText>
@@ -7887,8 +7887,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#contact-types-create</maml:linkText>
@@ -8029,8 +8029,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Set-ITGlueContactType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Set-ITGlueContactType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Set-ITGlueContactType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Set-ITGlueContactType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#contact-types-update</maml:linkText>
@@ -8268,11 +8268,11 @@
     <command:relatedLinks>
       <maml:navigationLink>
         <maml:linkText>Online Version:</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Countries/Get-ITGlueCountry.html</maml:uri>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Countries/Get-ITGlueCountry.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#countries-index</maml:linkText>
@@ -8439,8 +8439,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Documents/Set-ITGlueDocument.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Documents/Set-ITGlueDocument.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Documents/Set-ITGlueDocument.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Documents/Set-ITGlueDocument.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#documents-update</maml:linkText>
@@ -8699,8 +8699,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#domains-index</maml:linkText>
@@ -9145,8 +9145,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Expirations/Get-ITGlueExpiration.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Expirations/Get-ITGlueExpiration.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Expirations/Get-ITGlueExpiration.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Expirations/Get-ITGlueExpiration.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#expirations-index</maml:linkText>
@@ -9385,8 +9385,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Get-ITGlueExport.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Get-ITGlueExport.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Get-ITGlueExport.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Get-ITGlueExport.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#exports-index</maml:linkText>
@@ -9602,8 +9602,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#exports-create</maml:linkText>
@@ -9718,8 +9718,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#exports-destroy</maml:linkText>
@@ -9994,8 +9994,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-asset-fields-index</maml:linkText>
@@ -10135,8 +10135,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-asset-fields-create</maml:linkText>
@@ -10277,8 +10277,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-asset-fields-destroy</maml:linkText>
@@ -10506,8 +10506,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-asset-fields-update</maml:linkText>
@@ -10808,8 +10808,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Get-ITGlueFlexibleAsset.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Get-ITGlueFlexibleAsset.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Get-ITGlueFlexibleAsset.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Get-ITGlueFlexibleAsset.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-assets-index</maml:linkText>
@@ -10950,8 +10950,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-assets-create</maml:linkText>
@@ -11122,8 +11122,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-assets-destroy</maml:linkText>
@@ -11264,8 +11264,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Set-ITGlueFlexibleAsset.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Set-ITGlueFlexibleAsset.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Set-ITGlueFlexibleAsset.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Set-ITGlueFlexibleAsset.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-assets-update</maml:linkText>
@@ -11576,8 +11576,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-asset-types-index</maml:linkText>
@@ -11693,8 +11693,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/New-ITGlueFlexibleAssetType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/New-ITGlueFlexibleAssetType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/New-ITGlueFlexibleAssetType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/New-ITGlueFlexibleAssetType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-asset-types-create</maml:linkText>
@@ -11835,8 +11835,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Set-ITGlueFlexibleAssetType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Set-ITGlueFlexibleAssetType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Set-ITGlueFlexibleAssetType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Set-ITGlueFlexibleAssetType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#flexible-asset-types-update</maml:linkText>
@@ -12088,8 +12088,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#groups-index</maml:linkText>
@@ -12173,12 +12173,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12294,12 +12294,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueBaseURI.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueBaseURI.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12367,12 +12367,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12473,12 +12473,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12549,12 +12549,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12594,12 +12594,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12725,12 +12725,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -12833,12 +12833,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13054,12 +13054,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13146,12 +13146,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13238,12 +13238,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13391,12 +13391,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -13473,12 +13473,12 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:linkText>
-        <maml:uri>https://github.com/Celerium/ITGlue-PowerShellWrapper</maml:uri>
+        <maml:linkText>https://github.com/itglue/powershellwrapper</maml:linkText>
+        <maml:uri>https://github.com/itglue/powershellwrapper</maml:uri>
       </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
@@ -14115,8 +14115,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Get-ITGlueLocation.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Get-ITGlueLocation.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Get-ITGlueLocation.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Get-ITGlueLocation.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#locations-index</maml:linkText>
@@ -14256,8 +14256,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/New-ITGlueLocation.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/New-ITGlueLocation.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/New-ITGlueLocation.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/New-ITGlueLocation.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#locations-create</maml:linkText>
@@ -14768,8 +14768,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#locations-bulk-destroy</maml:linkText>
@@ -15275,8 +15275,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#locations-update</maml:linkText>
@@ -15473,8 +15473,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Logs/Get-ITGlueLog.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Logs/Get-ITGlueLog.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Logs/Get-ITGlueLog.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Logs/Get-ITGlueLog.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#logs</maml:linkText>
@@ -15687,8 +15687,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Get-ITGlueManufacturer.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Get-ITGlueManufacturer.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Get-ITGlueManufacturer.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Get-ITGlueManufacturer.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#manufacturers-index</maml:linkText>
@@ -15804,8 +15804,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#manufacturers-create</maml:linkText>
@@ -15946,8 +15946,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Set-ITGlueManufacturer.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Set-ITGlueManufacturer.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Set-ITGlueManufacturer.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Set-ITGlueManufacturer.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#manufacturers-update</maml:linkText>
@@ -16196,8 +16196,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#models-index</maml:linkText>
@@ -16345,11 +16345,11 @@
     <command:relatedLinks>
       <maml:navigationLink>
         <maml:linkText>Online Version:</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/New-ITGlueModel.html</maml:uri>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/New-ITGlueModel.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#models-create</maml:linkText>
@@ -16577,11 +16577,11 @@
     <command:relatedLinks>
       <maml:navigationLink>
         <maml:linkText>Online Version:</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Set-ITGlueModel.html</maml:uri>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Set-ITGlueModel.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#models-update</maml:linkText>
@@ -16794,8 +16794,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#operating-systems-index</maml:linkText>
@@ -17703,8 +17703,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Get-ITGlueOrganization.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Get-ITGlueOrganization.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Get-ITGlueOrganization.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Get-ITGlueOrganization.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organizations-index</maml:linkText>
@@ -17820,8 +17820,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/New-ITGlueOrganization.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/New-ITGlueOrganization.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/New-ITGlueOrganization.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/New-ITGlueOrganization.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organizations-create</maml:linkText>
@@ -18509,8 +18509,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organizations-bulk-destroy</maml:linkText>
@@ -19267,8 +19267,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organizations-update</maml:linkText>
@@ -19481,8 +19481,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organization-statuses-index</maml:linkText>
@@ -19598,8 +19598,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/New-ITGlueOrganizationStatus.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/New-ITGlueOrganizationStatus.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/New-ITGlueOrganizationStatus.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/New-ITGlueOrganizationStatus.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organization-statuses-create</maml:linkText>
@@ -19740,8 +19740,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Set-ITGlueOrganizationStatus.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Set-ITGlueOrganizationStatus.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Set-ITGlueOrganizationStatus.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Set-ITGlueOrganizationStatus.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organization-statuses-update</maml:linkText>
@@ -19954,8 +19954,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Get-ITGlueOrganizationType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Get-ITGlueOrganizationType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Get-ITGlueOrganizationType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Get-ITGlueOrganizationType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organization-types-index</maml:linkText>
@@ -20071,8 +20071,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/New-ITGlueOrganizationType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/New-ITGlueOrganizationType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/New-ITGlueOrganizationType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/New-ITGlueOrganizationType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organization-types-create</maml:linkText>
@@ -20213,8 +20213,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#organization-types-update</maml:linkText>
@@ -20427,8 +20427,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#password-categories-index</maml:linkText>
@@ -20544,8 +20544,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/New-ITGluePasswordCategory.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/New-ITGluePasswordCategory.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/New-ITGluePasswordCategory.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/New-ITGluePasswordCategory.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#password-categories-create</maml:linkText>
@@ -20685,8 +20685,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Set-ITGluePasswordCategory.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Set-ITGluePasswordCategory.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Set-ITGluePasswordCategory.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Set-ITGluePasswordCategory.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#password-categories-update</maml:linkText>
@@ -21179,8 +21179,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Get-ITGluePassword.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Get-ITGluePassword.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Get-ITGluePassword.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Get-ITGluePassword.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#passwords-index</maml:linkText>
@@ -21361,8 +21361,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/New-ITGluePassword.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/New-ITGluePassword.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/New-ITGluePassword.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/New-ITGluePassword.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#passwords-create</maml:linkText>
@@ -21733,8 +21733,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#passwords-destroy</maml:linkText>
@@ -21937,8 +21937,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#passwords-update</maml:linkText>
@@ -22151,8 +22151,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#platforms-index</maml:linkText>
@@ -22449,8 +22449,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#regions-index</maml:linkText>
@@ -22619,8 +22619,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/New-ITGlueRelatedItem.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/New-ITGlueRelatedItem.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/New-ITGlueRelatedItem.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/New-ITGlueRelatedItem.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#related-items-create</maml:linkText>
@@ -22786,8 +22786,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#related-items-bulk-destroy</maml:linkText>
@@ -22978,8 +22978,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#related-items-update</maml:linkText>
@@ -23245,8 +23245,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/UserMetrics/Get-ITGlueUserMetric.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/UserMetrics/Get-ITGlueUserMetric.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/UserMetrics/Get-ITGlueUserMetric.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/UserMetrics/Get-ITGlueUserMetric.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#accounts-user-metrics-daily-index</maml:linkText>
@@ -23557,8 +23557,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#accounts-users-index</maml:linkText>
@@ -23698,8 +23698,8 @@
     </command:examples>
     <command:relatedLinks>
       <maml:navigationLink>
-        <maml:linkText>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Set-ITGlueUser.html</maml:linkText>
-        <maml:uri>https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Set-ITGlueUser.html</maml:uri>
+        <maml:linkText>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Set-ITGlueUser.html</maml:linkText>
+        <maml:uri>https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Set-ITGlueUser.html</maml:uri>
       </maml:navigationLink>
       <maml:navigationLink>
         <maml:linkText>https://api.itglue.com/developer/#accounts-users-update</maml:linkText>

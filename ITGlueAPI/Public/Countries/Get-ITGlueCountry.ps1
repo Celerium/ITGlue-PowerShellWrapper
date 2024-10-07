@@ -63,7 +63,7 @@ function Get-ITGlueCountry {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html
 
     .LINK
         https://api.itglue.com/developer/#countries-index

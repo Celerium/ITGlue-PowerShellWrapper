@@ -52,7 +52,7 @@ function New-ITGluePassword {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/New-ITGluePassword.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/New-ITGluePassword.html
 
     .LINK
         https://api.itglue.com/developer/#passwords-create

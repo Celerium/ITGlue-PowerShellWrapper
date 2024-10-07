@@ -112,7 +112,7 @@ function Get-ITGluePassword {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Get-ITGluePassword.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Get-ITGluePassword.html
 
     .LINK
         https://api.itglue.com/developer/#passwords-index

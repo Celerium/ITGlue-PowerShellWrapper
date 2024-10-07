@@ -75,7 +75,7 @@ function Get-ITGlueUser {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html
 
     .LINK
         https://api.itglue.com/developer/#accounts-users-index

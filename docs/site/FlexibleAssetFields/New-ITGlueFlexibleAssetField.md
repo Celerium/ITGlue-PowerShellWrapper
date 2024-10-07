@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: FlexibleAssetFields
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html
 parent: POST
 schema: 2.0.0
 title: New-ITGlueFlexibleAssetField
@@ -112,7 +112,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html)
 
 [https://api.itglue.com/developer/#flexible-asset-fields-create](https://api.itglue.com/developer/#flexible-asset-fields-create)
 

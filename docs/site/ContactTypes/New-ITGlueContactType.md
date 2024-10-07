@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: ContactTypes
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html
 parent: POST
 schema: 2.0.0
 title: New-ITGlueContactType
@@ -95,7 +95,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html)
 
 [https://api.itglue.com/developer/#contact-types-create](https://api.itglue.com/developer/#contact-types-create)
 

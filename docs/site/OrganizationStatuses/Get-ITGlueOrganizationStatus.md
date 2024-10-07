@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: OrganizationStatuses
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueOrganizationStatus
@@ -173,7 +173,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html)
 
 [https://api.itglue.com/developer/#organization-statuses-index](https://api.itglue.com/developer/#organization-statuses-index)
 

@@ -68,7 +68,7 @@ function Get-ITGlueDomain {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html
 
     .LINK
         https://api.itglue.com/developer/#domains-index

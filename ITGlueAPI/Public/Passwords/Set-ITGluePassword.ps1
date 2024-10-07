@@ -49,7 +49,7 @@ function Set-ITGluePassword {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html
 
     .LINK
         https://api.itglue.com/developer/#passwords-update

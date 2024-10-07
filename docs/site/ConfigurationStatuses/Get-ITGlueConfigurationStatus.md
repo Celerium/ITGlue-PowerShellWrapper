@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: ConfigurationStatuses
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueConfigurationStatus
@@ -173,7 +173,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html)
 
 [https://api.itglue.com/developer/#configuration-statuses-index](https://api.itglue.com/developer/#configuration-statuses-index)
 

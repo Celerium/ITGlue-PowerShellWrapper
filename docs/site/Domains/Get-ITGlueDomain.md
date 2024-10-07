@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Domains
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueDomain
@@ -199,7 +199,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html)
 
 [https://api.itglue.com/developer/#domains-index](https://api.itglue.com/developer/#domains-index)
 

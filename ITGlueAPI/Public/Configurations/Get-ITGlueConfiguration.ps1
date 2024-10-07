@@ -134,7 +134,7 @@ function Get-ITGlueConfiguration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Get-ITGlueConfiguration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Get-ITGlueConfiguration.html
 
     .LINK
         https://api.itglue.com/developer/#configurations-index

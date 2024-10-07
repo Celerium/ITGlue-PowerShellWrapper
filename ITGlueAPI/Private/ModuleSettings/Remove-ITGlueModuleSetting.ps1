@@ -42,10 +42,10 @@ function Remove-ITGlueModuleSetting {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Destroy',SupportsShouldProcess)]

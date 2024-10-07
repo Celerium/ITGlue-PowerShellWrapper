@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: RelatedItems
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGlueRelatedItem
@@ -150,7 +150,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html)
 
 [https://api.itglue.com/developer/#related-items-update](https://api.itglue.com/developer/#related-items-update)
 

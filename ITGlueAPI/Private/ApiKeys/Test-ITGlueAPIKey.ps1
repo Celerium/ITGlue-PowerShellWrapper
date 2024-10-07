@@ -38,10 +38,10 @@ function Test-ITGlueAPIKey {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 

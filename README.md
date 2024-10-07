@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://ITGlue.com"><img src="https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGallery_ITGlueAPI.png" alt="ITGlueAPI" width="200"></a>
+  <a href="https://ITGlue.com"><img src="https://github.com/itglue/powershellwrapper/blob/master/.github/images/PoSHGallery_ITGlueAPI.png" alt="ITGlueAPI" width="200"></a>
   <br>
   ITGlueAPI
   <br>
@@ -52,15 +52,15 @@ Get-ITGluePassword -OrganizationID 8675309
 <br />
 <div align="center">
   <a href="https://itglue.com">
-    <img src="https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGitHub_ITGlueAPI.png" alt="Logo">
+    <img src="https://github.com/itglue/powershellwrapper/blob/master/.github/images/PoSHGitHub_ITGlueAPI.png" alt="Logo">
   </a>
 
   <p align="center">
     <a href="https://www.powershellgallery.com/packages/ITGlueAPI" target="_blank">PowerShell Gallery</a>
     ·
-    <a href="https://github.com/Celerium/ITGlue-PowerShellWrapper/issues/new/choose" target="_blank">Report Bug</a>
+    <a href="https://github.com/itglue/powershellwrapper/issues/new/choose" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/Celerium/ITGlue-PowerShellWrapper/issues/new/choose" target="_blank">Request Feature</a>
+    <a href="https://github.com/itglue/powershellwrapper/issues/new/choose" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -97,7 +97,7 @@ Get-ITGluePassword -OrganizationID 8675309
 
 The [ITGlueAPI](https://www.itglue.com/) offers the ability to read, create, and update much of the data within IT Glue's documentation platform. That includes organizations, contacts, configuration items, and more. This module serves to abstract away the details of interacting with IT Glue's API endpoints in such a way that is consistent with PowerShell nomenclature. This gives system administrators and PowerShell developers a convenient and familiar way of using IT Glue's API to create documentation scripts, automation, and integrations. Full documentation for IT Glue's RESTful API can be found [here](https://api.itglue.com/developer/).
 
-- :book: Project documentation can be found on [Github Pages](https://celerium.github.io/ITGlue-PowerShellWrapper/)
+- :book: Project documentation can be found on [Github Pages](https://itglue.github.io/ITGlue-PowerShellWrapper/)
 - :book: ITGlue's REST API documentation on their management portal [here](https://api.itglue.com/developer/)
 
 ITGlue features a REST API that makes use of common HTTP request methods. In order to maintain PowerShell best practices, only approved verbs are used.
@@ -130,7 +130,7 @@ Install-Module -Name ITGlueAPI
 - :information_source: This module supports PowerShell 5.0+ and *should* work in PowerShell Core.
 - :information_source: If you are running an older version of PowerShell, or if PowerShellGet is unavailable, you can manually download the *main* branch and place the *ITGlueAPI* folder into the (default) `C:\Program Files\WindowsPowerShell\Modules` folder.
 
-Project documentation can be found on [Github Pages](https://celerium.github.io/ITGlue-PowerShellWrapper/)
+Project documentation can be found on [Github Pages](https://itglue.github.io/ITGlue-PowerShellWrapper/)
 
 - A full list of functions can be retrieved by running `Get-Command -Module ITGlueAPI`.
 - Help info and a list of parameters can be found by running `Get-Help <command name>`, such as:
@@ -224,13 +224,13 @@ Contributions are what makes the open-source community such an amazing place to 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-See the [CONTRIBUTING](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/CONTRIBUTING.md) guide for more information about contributing.
+See the [CONTRIBUTING](https://github.com/itglue/powershellwrapper/blob/master/.github/CONTRIBUTING.md) guide for more information about contributing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
-Distributed under the Apache-2.0 license. See [LICENSE](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE) for more information.
+Distributed under the Apache-2.0 license. See [LICENSE](https://github.com/itglue/powershellwrapper/blob/master/LICENSE) for more information.
 
 [![GitHub_License][GitHub_License-shield]][GitHub_License-url]
 
@@ -239,14 +239,14 @@ Distributed under the Apache-2.0 license. See [LICENSE](https://github.com/Celer
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Az_Pipeline-shield]:               https://img.shields.io/azure-devops/build/AzCelerium/ITGlueAPI/10?style=for-the-badge&label=DevOps_Build
-[Az_Pipeline-url]:                  https://dev.azure.com/AzCelerium/ITGlueAPI/_build?definitionId=10
+[Az_Pipeline-shield]:               https://img.shields.io/azure-devops/build/AzITGlue/ITGlueAPI/10?style=for-the-badge&label=DevOps_Build
+[Az_Pipeline-url]:                  https://dev.azure.com/AzITGlue/ITGlueAPI/_build?definitionId=10
 
-[GitHub_Pages-shield]:              https://img.shields.io/github/actions/workflow/status/celerium/ITGlue-PowerShellWrapper/pages%2Fpages-build-deployment?style=for-the-badge&label=GitHub%20Pages
-[GitHub_Pages-url]:                 https://github.com/Celerium/ITGlue-PowerShellWrapper/actions/workflows/pages/pages-build-deployment
+[GitHub_Pages-shield]:              https://img.shields.io/github/actions/workflow/status/itglue/ITGlue-PowerShellWrapper/pages%2Fpages-build-deployment?style=for-the-badge&label=GitHub%20Pages
+[GitHub_Pages-url]:                 https://github.com/itglue/powershellwrapper/actions/workflows/pages/pages-build-deployment
 
-[GitHub_License-shield]:            https://img.shields.io/github/license/celerium/ITGlue-PowerShellWrapper?style=for-the-badge
-[GitHub_License-url]:               https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE
+[GitHub_License-shield]:            https://img.shields.io/github/license/itglue/ITGlue-PowerShellWrapper?style=for-the-badge
+[GitHub_License-url]:               https://github.com/itglue/powershellwrapper/blob/master/LICENSE
 
 [PoshGallery_Version-shield]:       https://img.shields.io/powershellgallery/v/ITGlueapi?include_prereleases&style=for-the-badge
 [PoshGallery_Version-url]:          https://www.powershellgallery.com/packages/ITGlueAPI
@@ -257,17 +257,17 @@ Distributed under the Apache-2.0 license. See [LICENSE](https://github.com/Celer
 [PoshGallery_Downloads-shield]:     https://img.shields.io/powershellgallery/dt/ITGlueAPI?style=for-the-badge
 [PoshGallery_Downloads-url]:        https://www.powershellgallery.com/packages/ITGlueAPI
 
-[codeSize-shield]:                  https://img.shields.io/github/repo-size/celerium/ITGlue-PowerShellWrapper?style=for-the-badge
-[codeSize-url]:                     https://github.com/Celerium/ITGlue-PowerShellWrapper
+[codeSize-shield]:                  https://img.shields.io/github/repo-size/itglue/ITGlue-PowerShellWrapper?style=for-the-badge
+[codeSize-url]:                     https://github.com/itglue/powershellwrapper
 
-[contributors-shield]:              https://img.shields.io/github/contributors/celerium/ITGlue-PowerShellWrapper?style=for-the-badge
-[contributors-url]:                 https://github.com/Celerium/ITGlue-PowerShellWrapper/graphs/contributors
+[contributors-shield]:              https://img.shields.io/github/contributors/itglue/ITGlue-PowerShellWrapper?style=for-the-badge
+[contributors-url]:                 https://github.com/itglue/powershellwrapper/graphs/contributors
 
-[forks-shield]:                     https://img.shields.io/github/forks/celerium/ITGlue-PowerShellWrapper?style=for-the-badge
-[forks-url]:                        https://github.com/Celerium/ITGlue-PowerShellWrapper/network/members
+[forks-shield]:                     https://img.shields.io/github/forks/itglue/ITGlue-PowerShellWrapper?style=for-the-badge
+[forks-url]:                        https://github.com/itglue/powershellwrapper/network/members
 
-[stars-shield]:                     https://img.shields.io/github/stars/celerium/ITGlue-PowerShellWrapper?style=for-the-badge
-[stars-url]:                        https://github.com/Celerium/ITGlue-PowerShellWrapper/stargazers
+[stars-shield]:                     https://img.shields.io/github/stars/itglue/ITGlue-PowerShellWrapper?style=for-the-badge
+[stars-url]:                        https://github.com/itglue/powershellwrapper/stargazers
 
-[issues-shield]:                    https://img.shields.io/github/issues/Celerium/ITGlue-PowerShellWrapper?style=for-the-badge
-[issues-url]:                       https://github.com/Celerium/ITGlue-PowerShellWrapper/issues
+[issues-shield]:                    https://img.shields.io/github/issues/ITGlue/ITGlue-PowerShellWrapper?style=for-the-badge
+[issues-url]:                       https://github.com/itglue/powershellwrapper/issues

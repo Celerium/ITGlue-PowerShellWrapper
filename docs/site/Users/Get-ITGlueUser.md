@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Users
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueUser
@@ -237,7 +237,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html)
 
 [https://api.itglue.com/developer/#accounts-users-index](https://api.itglue.com/developer/#accounts-users-index)
 

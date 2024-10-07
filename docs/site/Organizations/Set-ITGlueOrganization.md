@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Organizations
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGlueOrganization
@@ -386,7 +386,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html)
 
 [https://api.itglue.com/developer/#organizations-update](https://api.itglue.com/developer/#organizations-update)
 

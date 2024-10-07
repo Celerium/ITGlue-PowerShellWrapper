@@ -57,7 +57,7 @@ function Set-ITGlueLocation {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html
 
     .LINK
         https://api.itglue.com/developer/#locations-update

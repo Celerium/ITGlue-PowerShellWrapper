@@ -72,7 +72,7 @@ function Get-ITGlueRegion {
         function at this time for either parameter set
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html
 
     .LINK
         https://api.itglue.com/developer/#regions-index

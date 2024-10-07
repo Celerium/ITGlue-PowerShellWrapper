@@ -77,7 +77,7 @@ function Get-ITGlueFlexibleAsset {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Get-ITGlueFlexibleAsset.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Get-ITGlueFlexibleAsset.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-assets-index

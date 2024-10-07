@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Countries
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Countries/Get-ITGlueCountry.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Countries/Get-ITGlueCountry.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueCountry
@@ -188,7 +188,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html)
 
 [https://api.itglue.com/developer/#countries-index](https://api.itglue.com/developer/#countries-index)
 

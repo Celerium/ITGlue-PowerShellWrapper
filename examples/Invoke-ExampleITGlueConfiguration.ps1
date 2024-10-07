@@ -69,7 +69,7 @@
         https://api.itglue.com/developer/#configurations
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 

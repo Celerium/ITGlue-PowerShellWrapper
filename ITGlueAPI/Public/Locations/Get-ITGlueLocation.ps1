@@ -102,7 +102,7 @@ function Get-ITGlueLocation {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Get-ITGlueLocation.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Get-ITGlueLocation.html
 
     .LINK
         https://api.itglue.com/developer/#locations-index

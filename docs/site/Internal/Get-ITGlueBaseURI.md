@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Internal
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueBaseURI
@@ -46,7 +46,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html)
 
-[https://github.com/Celerium/ITGlue-PowerShellWrapper](https://github.com/Celerium/ITGlue-PowerShellWrapper)
+[https://github.com/itglue/powershellwrapper](https://github.com/itglue/powershellwrapper)
 

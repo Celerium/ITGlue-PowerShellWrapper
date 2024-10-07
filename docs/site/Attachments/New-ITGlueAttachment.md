@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Attachments
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html
 parent: POST
 schema: 2.0.0
 title: New-ITGlueAttachment
@@ -138,7 +138,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html)
 
 [https://api.itglue.com/developer/#attachments-create](https://api.itglue.com/developer/#attachments-create)
 

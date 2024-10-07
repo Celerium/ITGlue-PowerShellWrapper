@@ -30,7 +30,7 @@
         -moduleName ITGlueAPI
         -helpDocsPath "C:\Celerium\Projects\ITGlue-PowerShellWrapper\docs"
         -csvFilePath "C:\Celerium\Projects\ITGlue-PowerShellWrapper\docs\Endpoints.csv"
-        -githubPageUri "https://celerium.github.io/ITGlue-PowerShellWrapper"
+        -githubPageUri "https://itglue.github.io/ITGlue-PowerShellWrapper"
 
     Updates markdown docs and external help files
 
@@ -63,7 +63,7 @@
 
         [Parameter(Mandatory=$false)]
         [ValidateNotNullOrEmpty()]
-        [string]$githubPageUri = "https://celerium.github.io/ITGlue-PowerShellWrapper"
+        [string]$githubPageUri = "https://itglue.github.io/ITGlue-PowerShellWrapper"
     )
 
 #EndRegion  [ Parameters ]

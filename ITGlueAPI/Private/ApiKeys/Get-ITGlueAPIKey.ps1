@@ -26,10 +26,10 @@ function Get-ITGlueAPIKey {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 

@@ -22,7 +22,7 @@ function New-ITGlueOrganizationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/New-ITGlueOrganizationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/New-ITGlueOrganizationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#organization-statuses-create

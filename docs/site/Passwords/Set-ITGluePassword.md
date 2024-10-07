@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Passwords
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGluePassword
@@ -167,7 +167,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html)
 
 [https://api.itglue.com/developer/#passwords-update](https://api.itglue.com/developer/#passwords-update)
 

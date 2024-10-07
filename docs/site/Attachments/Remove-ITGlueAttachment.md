@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Attachments
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueAttachment
@@ -131,7 +131,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html)
 
 [https://api.itglue.com/developer/#attachments-bulk-destroy](https://api.itglue.com/developer/#attachments-bulk-destroy)
 

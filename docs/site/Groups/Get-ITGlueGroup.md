@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Groups
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueGroup
@@ -191,7 +191,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html)
 
 [https://api.itglue.com/developer/#groups-index](https://api.itglue.com/developer/#groups-index)
 

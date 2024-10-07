@@ -2,7 +2,7 @@
 parent: Home 
 Module Name: ITGlueAPI
 Module Guid: f969cff1-3120-4980-8c46-83f2d0bf2521
-Download Help Link: https://celerium.github.io/ITGlue-PowerShellWrapper/docs/cab
+Download Help Link: https://itglue.github.io/ITGlue-PowerShellWrapper/docs/cab
 Help Version: 1.0.0.0
 Locale: en-US
 ---

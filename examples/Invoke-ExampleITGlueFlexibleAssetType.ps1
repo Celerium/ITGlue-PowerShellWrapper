@@ -49,7 +49,7 @@
         https://api.itglue.com/developer/#flexible-asset-types
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
 <############################################################################################

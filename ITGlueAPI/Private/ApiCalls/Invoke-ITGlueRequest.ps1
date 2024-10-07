@@ -49,10 +49,10 @@ function Invoke-ITGlueRequest {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 

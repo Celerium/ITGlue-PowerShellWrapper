@@ -27,7 +27,7 @@ function Set-ITGlueOrganizationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html
 
     .LINK
         https://api.itglue.com/developer/#organization-types-update

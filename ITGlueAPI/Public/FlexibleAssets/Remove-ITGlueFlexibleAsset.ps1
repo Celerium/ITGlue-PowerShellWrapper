@@ -27,7 +27,7 @@ function Remove-ITGlueFlexibleAsset {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-assets-destroy

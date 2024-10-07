@@ -22,7 +22,7 @@ function New-ITGlueOrganizationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/New-ITGlueOrganizationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/New-ITGlueOrganizationType.html
 
     .LINK
         https://api.itglue.com/developer/#organization-types-create

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Contacts
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGlueContact
@@ -325,7 +325,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html)
 
 [https://api.itglue.com/developer/#contacts-update](https://api.itglue.com/developer/#contacts-update)
 

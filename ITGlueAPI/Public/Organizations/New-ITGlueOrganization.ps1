@@ -21,7 +21,7 @@ function New-ITGlueOrganization {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/New-ITGlueOrganization.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/New-ITGlueOrganization.html
 
     .LINK
         https://api.itglue.com/developer/#organizations-create

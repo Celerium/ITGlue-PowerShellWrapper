@@ -33,7 +33,7 @@
     Description = 'This module provides a PowerShell wrapper for the IT Glue API.'
 
     # Copyright information of this module
-    Copyright = 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE'
+    Copyright = 'https://github.com/itglue/powershellwrapper/blob/master/LICENSE'
 
     # Minimum version of the Windows PowerShell engine required by this module
     PowerShellVersion = '3.0'
@@ -189,16 +189,16 @@
             Tags = @('ITGlue', 'Kaseya', 'PowerShell', 'Windows', 'MacOS', 'Linux', 'PSEdition_Desktop', 'PSEdition_Core')
 
             # A URL to the license for this module.
-            LicenseUri = 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE'
+            LicenseUri = 'https://github.com/itglue/powershellwrapper/blob/master/LICENSE'
 
             # A URL to the main website for this project.
-            ProjectUri = 'https://github.com/Celerium/ITGlue-PowerShellWrapper'
+            ProjectUri = 'https://github.com/itglue/powershellwrapper'
 
             # A URL to an icon representing this module.
-            IconUri = 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGallery_ITGlueAPI.png'
+            IconUri = 'https://github.com/itglue/powershellwrapper/blob/master/.github/images/PoSHGallery_ITGlueAPI.png'
 
             # ReleaseNotes of this module
-            ReleaseNotes = 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/README.md'
+            ReleaseNotes = 'https://github.com/itglue/powershellwrapper/blob/master/README.md'
 
             # Identifies the module as a prerelease version in online galleries.
             #PreRelease = '-BETA'

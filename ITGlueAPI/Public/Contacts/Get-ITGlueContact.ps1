@@ -114,7 +114,7 @@ function Get-ITGlueContact {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Get-ITGlueContact.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Get-ITGlueContact.html
 
     .LINK
         https://api.itglue.com/developer/#contacts-index

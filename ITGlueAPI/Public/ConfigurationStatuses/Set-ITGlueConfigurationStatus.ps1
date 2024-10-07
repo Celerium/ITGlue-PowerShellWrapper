@@ -27,7 +27,7 @@ function Set-ITGlueConfigurationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Set-ITGlueConfigurationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Set-ITGlueConfigurationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-statuses-update

@@ -59,7 +59,7 @@
         https://api.itglue.com/developer/#related-items-bulk-destroy
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 

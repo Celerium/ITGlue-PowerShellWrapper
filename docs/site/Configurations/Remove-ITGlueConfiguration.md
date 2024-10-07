@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Configurations
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueConfiguration
@@ -389,7 +389,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html)
 
 [https://api.itglue.com/developer/#configurations-bulk-destroy](https://api.itglue.com/developer/#configurations-bulk-destroy)
 

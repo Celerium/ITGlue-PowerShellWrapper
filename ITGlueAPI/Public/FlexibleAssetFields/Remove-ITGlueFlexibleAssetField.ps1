@@ -28,7 +28,7 @@ function Remove-ITGlueFlexibleAssetField {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-fields-destroy

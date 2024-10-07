@@ -25,7 +25,7 @@ function Set-ITGlueUser {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Set-ITGlueUser.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Set-ITGlueUser.html
 
     .LINK
         https://api.itglue.com/developer/#accounts-users-update

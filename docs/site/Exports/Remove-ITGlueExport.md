@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: Exports
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html
 parent: DELETE
 schema: 2.0.0
 title: Remove-ITGlueExport
@@ -91,7 +91,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html)
 
 [https://api.itglue.com/developer/#exports-destroy](https://api.itglue.com/developer/#exports-destroy)
 

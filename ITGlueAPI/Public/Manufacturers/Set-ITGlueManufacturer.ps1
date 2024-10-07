@@ -26,7 +26,7 @@ function Set-ITGlueManufacturer {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Set-ITGlueManufacturer.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Set-ITGlueManufacturer.html
 
     .LINK
         https://api.itglue.com/developer/#manufacturers-update

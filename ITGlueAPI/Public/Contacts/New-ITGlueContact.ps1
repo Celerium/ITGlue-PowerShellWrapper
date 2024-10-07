@@ -28,7 +28,7 @@ function New-ITGlueContact {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/New-ITGlueContact.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/New-ITGlueContact.html
 
     .LINK
         https://api.itglue.com/developer/#contacts-create

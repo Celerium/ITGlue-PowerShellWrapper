@@ -32,10 +32,10 @@ function ConvertTo-ITGlueQueryString {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/ConvertTo-ITGlueQueryString.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding()]
@@ -121,10 +121,10 @@ function Invoke-ITGlueRequest {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Invoke-ITGlueRequest.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 
@@ -289,10 +289,10 @@ function Add-ITGlueAPIKey {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 
@@ -357,10 +357,10 @@ function Get-ITGlueAPIKey {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 
@@ -426,10 +426,10 @@ function Remove-ITGlueAPIKey {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 
@@ -499,10 +499,10 @@ function Test-ITGlueAPIKey {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Test-ITGlueAPIKey.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 
 #>
 
@@ -610,10 +610,10 @@ function Add-ITGlueBaseURI {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueBaseURI.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Add-ITGlueBaseURI.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding()]
@@ -668,10 +668,10 @@ function Get-ITGlueBaseURI {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueBaseURI.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding()]
@@ -712,10 +712,10 @@ function Remove-ITGlueBaseURI {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueBaseURI.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding(SupportsShouldProcess, ConfirmImpact = 'None')]
@@ -787,10 +787,10 @@ function Export-ITGlueModuleSetting {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Set')]
@@ -894,10 +894,10 @@ function Get-ITGlueModuleSetting {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Get-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Index')]
@@ -990,10 +990,10 @@ function Import-ITGlueModuleSetting {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Import-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Set')]
@@ -1097,10 +1097,10 @@ function Remove-ITGlueModuleSetting {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Remove-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Destroy',SupportsShouldProcess)]
@@ -1189,7 +1189,7 @@ function New-ITGlueAttachment {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/New-ITGlueAttachment.html
 
     .LINK
         https://api.itglue.com/developer/#attachments-create
@@ -1276,7 +1276,7 @@ function Remove-ITGlueAttachment {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Remove-ITGlueAttachment.html
 
     .LINK
         https://api.itglue.com/developer/#attachments-bulk-destroy
@@ -1370,7 +1370,7 @@ function Set-ITGlueAttachment {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Attachments/Set-ITGlueAttachment.html
 
     .LINK
         https://api.itglue.com/developer/#attachments-update
@@ -1495,7 +1495,7 @@ function Get-ITGlueConfigurationInterface {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-interfaces-index
@@ -1625,7 +1625,7 @@ function New-ITGlueConfigurationInterface {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/New-ITGlueConfigurationInterface.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-interfaces-create
@@ -1730,7 +1730,7 @@ function Set-ITGlueConfigurationInterface {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-interfaces-update
@@ -1945,7 +1945,7 @@ function Get-ITGlueConfiguration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Get-ITGlueConfiguration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Get-ITGlueConfiguration.html
 
     .LINK
         https://api.itglue.com/developer/#configurations-index
@@ -2215,7 +2215,7 @@ function New-ITGlueConfiguration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/new-ITGlueConfiguration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/new-ITGlueConfiguration.html
 
     .LINK
         https://api.itglue.com/developer/#configurations-create
@@ -2346,7 +2346,7 @@ function Remove-ITGlueConfiguration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Remove-ITGlueConfiguration.html
 
     .LINK
         https://api.itglue.com/developer/#configurations-bulk-destroy
@@ -2618,7 +2618,7 @@ function Set-ITGlueConfiguration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Configurations/Set-ITGlueConfiguration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Configurations/Set-ITGlueConfiguration.html
 
     .LINK
         https://api.itglue.com/developer/#configurations-update
@@ -2862,7 +2862,7 @@ function Get-ITGlueConfigurationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Get-ITGlueConfigurationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-statuses-index
@@ -2963,7 +2963,7 @@ function New-ITGlueConfigurationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/New-ITGlueConfigurationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/New-ITGlueConfigurationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-statuses-create
@@ -3032,7 +3032,7 @@ function Set-ITGlueConfigurationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Set-ITGlueConfigurationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationStatuses/Set-ITGlueConfigurationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-statuses-update
@@ -3137,7 +3137,7 @@ function Get-ITGlueConfigurationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Get-ITGlueConfigurationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Get-ITGlueConfigurationType.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-types-index
@@ -3237,7 +3237,7 @@ function New-ITGlueConfigurationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/New-ITGlueConfigurationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/New-ITGlueConfigurationType.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-types-create
@@ -3307,7 +3307,7 @@ function Set-ITGlueConfigurationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Set-ITGlueConfigurationType.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-types-update
@@ -3466,7 +3466,7 @@ function Get-ITGlueContact {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Get-ITGlueContact.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Get-ITGlueContact.html
 
     .LINK
         https://api.itglue.com/developer/#contacts-index
@@ -3666,7 +3666,7 @@ function New-ITGlueContact {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/New-ITGlueContact.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/New-ITGlueContact.html
 
     .LINK
         https://api.itglue.com/developer/#contacts-create
@@ -3782,7 +3782,7 @@ function Remove-ITGlueContact {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html
 
     .LINK
         https://api.itglue.com/developer/#contacts-bulk-destroy
@@ -3983,7 +3983,7 @@ function Set-ITGlueContact {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Set-ITGlueContact.html
 
     .LINK
         https://api.itglue.com/developer/#contacts-update
@@ -4183,7 +4183,7 @@ function Get-ITGlueContactType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Get-ITGlueContactType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Get-ITGlueContactType.html
 
     .LINK
         https://api.itglue.com/developer/#contact-types-index
@@ -4284,7 +4284,7 @@ function New-ITGlueContactType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/New-ITGlueContactType.html
 
     .LINK
         https://api.itglue.com/developer/#contact-types-create
@@ -4353,7 +4353,7 @@ function Set-ITGlueContactType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Set-ITGlueContactType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ContactTypes/Set-ITGlueContactType.html
 
     .LINK
         https://api.itglue.com/developer/#contact-types-update
@@ -4461,7 +4461,7 @@ function Get-ITGlueCountry {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Countires/Get-ITGlueCountry.html
 
     .LINK
         https://api.itglue.com/developer/#countries-index
@@ -4579,7 +4579,7 @@ function Set-ITGlueDocument {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Documents/Set-ITGlueDocument.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Documents/Set-ITGlueDocument.html
 
     .LINK
         https://api.itglue.com/developer/#documents-update
@@ -4711,7 +4711,7 @@ function Get-ITGlueDomain {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Domains/Get-ITGlueDomain.html
 
     .LINK
         https://api.itglue.com/developer/#domains-index
@@ -4899,7 +4899,7 @@ function Get-ITGlueExpiration {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Expirations/Get-ITGlueExpiration.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Expirations/Get-ITGlueExpiration.html
 
     .LINK
         https://api.itglue.com/developer/#expirations-index
@@ -5102,7 +5102,7 @@ function Get-ITGlueExport {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Get-ITGlueExport.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Get-ITGlueExport.html
 
     .LINK
         https://api.itglue.com/developer/#exports-index
@@ -5228,7 +5228,7 @@ function New-ITGlueExport {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html
 
     .LINK
         https://api.itglue.com/developer/#exports-create
@@ -5319,7 +5319,7 @@ function Remove-ITGlueExport {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/Remove-ITGlueExport.html
 
     .LINK
         https://api.itglue.com/developer/#exports-destroy
@@ -5431,7 +5431,7 @@ function Get-ITGlueFlexibleAssetField {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-fields-index
@@ -5553,7 +5553,7 @@ function New-ITGlueFlexibleAssetField {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/New-ITGlueFlexibleAssetField.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-fields-create
@@ -5630,7 +5630,7 @@ function Remove-ITGlueFlexibleAssetField {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-fields-destroy
@@ -5718,7 +5718,7 @@ function Set-ITGlueFlexibleAssetField {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-fields-update
@@ -5872,7 +5872,7 @@ function Get-ITGlueFlexibleAsset {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Get-ITGlueFlexibleAsset.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Get-ITGlueFlexibleAsset.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-assets-index
@@ -6001,7 +6001,7 @@ function New-ITGlueFlexibleAsset {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-assets-create
@@ -6078,7 +6078,7 @@ function Remove-ITGlueFlexibleAsset {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Remove-ITGlueFlexibleAsset.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-assets-destroy
@@ -6153,7 +6153,7 @@ function Set-ITGlueFlexibleAsset {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Set-ITGlueFlexibleAsset.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/Set-ITGlueFlexibleAsset.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-assets-update
@@ -6277,7 +6277,7 @@ function Get-ITGlueFlexibleAssetType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-types-index
@@ -6400,7 +6400,7 @@ function New-ITGlueFlexibleAssetType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/New-ITGlueFlexibleAssetType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/New-ITGlueFlexibleAssetType.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-types-create
@@ -6469,7 +6469,7 @@ function Set-ITGlueFlexibleAssetType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Set-ITGlueFlexibleAssetType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Set-ITGlueFlexibleAssetType.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-types-update
@@ -6580,7 +6580,7 @@ function Get-ITGlueGroup {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Groups/Get-ITGlueGroup.html
 
     .LINK
         https://api.itglue.com/developer/#groups-index
@@ -6769,7 +6769,7 @@ function Get-ITGlueLocation {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Get-ITGlueLocation.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Get-ITGlueLocation.html
 
     .LINK
         https://api.itglue.com/developer/#locations-index
@@ -6956,7 +6956,7 @@ function New-ITGlueLocation {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/New-ITGlueLocation.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/New-ITGlueLocation.html
 
     .LINK
         https://api.itglue.com/developer/#locations-create
@@ -7065,7 +7065,7 @@ function Remove-ITGlueLocation {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Remove-ITGlueLocation.html
 
     .LINK
         https://api.itglue.com/developer/#locations-bulk-destroy
@@ -7239,7 +7239,7 @@ function Set-ITGlueLocation {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Locations/Set-ITGlueLocation.html
 
     .LINK
         https://api.itglue.com/developer/#locations-update
@@ -7435,7 +7435,7 @@ function Get-ITGlueLog {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Logs/Get-ITGlueLog.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Logs/Get-ITGlueLog.html
 
     .LINK
         https://api.itglue.com/developer/#logs
@@ -7567,7 +7567,7 @@ function Get-ITGlueManufacturer {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Get-ITGlueManufacturer.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Get-ITGlueManufacturer.html
 
     .LINK
         https://api.itglue.com/developer/#manufacturers-index
@@ -7667,7 +7667,7 @@ function New-ITGlueManufacturer {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/New-ITGlueManufacturer.html
 
     .LINK
         https://api.itglue.com/developer/#manufacturers-create
@@ -7734,7 +7734,7 @@ function Set-ITGlueManufacturer {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Set-ITGlueManufacturer.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Manufacturers/Set-ITGlueManufacturer.html
 
     .LINK
         https://api.itglue.com/developer/#manufacturers-update
@@ -7842,7 +7842,7 @@ function Get-ITGlueModel {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html
 
     .LINK
         https://api.itglue.com/developer/#models-index
@@ -7971,7 +7971,7 @@ function New-ITGlueModel {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html
 
     .LINK
         https://api.itglue.com/developer/#models-create
@@ -8055,7 +8055,7 @@ function Set-ITGlueModel {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Models/Get-ITGlueModel.html
 
     .LINK
         https://api.itglue.com/developer/#models-update
@@ -8192,7 +8192,7 @@ function Get-ITGlueOperatingSystem {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OperatingSystems/Get-ITGlueOperatingSystem.html
 
     .LINK
         https://api.itglue.com/developer/#operating-systems-index
@@ -8399,7 +8399,7 @@ function Get-ITGlueOrganization {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Get-ITGlueOrganization.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Get-ITGlueOrganization.html
 
     .LINK
         https://api.itglue.com/developer/#organizations-index
@@ -8613,7 +8613,7 @@ function New-ITGlueOrganization {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/New-ITGlueOrganization.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/New-ITGlueOrganization.html
 
     .LINK
         https://api.itglue.com/developer/#organizations-create
@@ -8731,7 +8731,7 @@ function Remove-ITGlueOrganization {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Remove-ITGlueOrganization.html
 
     .LINK
         https://api.itglue.com/developer/#organizations-bulk-destroy
@@ -8966,7 +8966,7 @@ function Set-ITGlueOrganization {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Organizations/Set-ITGlueOrganization.html
 
     .LINK
         https://api.itglue.com/developer/#organizations-update
@@ -9182,7 +9182,7 @@ function Get-ITGlueOrganizationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Get-ITGlueOrganizationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#organization-statuses-index
@@ -9283,7 +9283,7 @@ function New-ITGlueOrganizationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/New-ITGlueOrganizationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/New-ITGlueOrganizationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#organization-statuses-create
@@ -9353,7 +9353,7 @@ function Set-ITGlueOrganizationStatus {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Set-ITGlueOrganizationStatus.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationStatuses/Set-ITGlueOrganizationStatus.html
 
     .LINK
         https://api.itglue.com/developer/#organization-statuses-update
@@ -9458,7 +9458,7 @@ function Get-ITGlueOrganizationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Get-ITGlueOrganizationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Get-ITGlueOrganizationType.html
 
     .LINK
         https://api.itglue.com/developer/#organization-types-index
@@ -9559,7 +9559,7 @@ function New-ITGlueOrganizationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/New-ITGlueOrganizationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/New-ITGlueOrganizationType.html
 
     .LINK
         https://api.itglue.com/developer/#organization-types-create
@@ -9628,7 +9628,7 @@ function Set-ITGlueOrganizationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html
 
     .LINK
         https://api.itglue.com/developer/#organization-types-update
@@ -9732,7 +9732,7 @@ function Get-ITGluePasswordCategory {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html
 
     .LINK
         https://api.itglue.com/developer/#password-categories-index
@@ -9833,7 +9833,7 @@ function New-ITGluePasswordCategory {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/New-ITGluePasswordCategory.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/New-ITGluePasswordCategory.html
 
     .LINK
         https://api.itglue.com/developer/#password-categories-create
@@ -9900,7 +9900,7 @@ function Set-ITGluePasswordCategory {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Set-ITGluePasswordCategory.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Set-ITGluePasswordCategory.html
 
     .LINK
         https://api.itglue.com/developer/#password-categories-update
@@ -10057,7 +10057,7 @@ function Get-ITGluePassword {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Get-ITGluePassword.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Get-ITGluePassword.html
 
     .LINK
         https://api.itglue.com/developer/#passwords-index
@@ -10261,7 +10261,7 @@ function New-ITGluePassword {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/New-ITGluePassword.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/New-ITGluePassword.html
 
     .LINK
         https://api.itglue.com/developer/#passwords-create
@@ -10373,7 +10373,7 @@ function Remove-ITGluePassword {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Remove-ITGluePassword.html
 
     .LINK
         https://api.itglue.com/developer/#passwords-destroy
@@ -10529,7 +10529,7 @@ function Set-ITGluePassword {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Passwords/Set-ITGluePassword.html
 
     .LINK
         https://api.itglue.com/developer/#passwords-update
@@ -10658,7 +10658,7 @@ function Get-ITGluePlatform {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Platforms/Get-ITGluePlatform.html
 
     .LINK
         https://api.itglue.com/developer/#platforms-index
@@ -10810,7 +10810,7 @@ function Get-ITGlueRegion {
         function at this time for either parameter set
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Regions/Get-ITGlueRegion.html
 
     .LINK
         https://api.itglue.com/developer/#regions-index
@@ -10950,7 +10950,7 @@ function New-ITGlueRelatedItem {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/New-ITGlueRelatedItem.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/New-ITGlueRelatedItem.html
 
     .LINK
         https://api.itglue.com/developer/#related-items-create
@@ -11037,7 +11037,7 @@ function Remove-ITGlueRelatedItem {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Remove-ITGlueRelatedItem.html
 
     .LINK
         https://api.itglue.com/developer/#related-items-bulk-destroy
@@ -11130,7 +11130,7 @@ function Set-ITGlueRelatedItem {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/Set-ITGlueRelatedItem.html
 
     .LINK
         https://api.itglue.com/developer/#related-items-update
@@ -11257,7 +11257,7 @@ function Get-ITGlueUserMetric {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/UserMetrics/Get-ITGlueUserMetric.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/UserMetrics/Get-ITGlueUserMetric.html
 
     .LINK
         https://api.itglue.com/developer/#accounts-user-metrics-daily-index
@@ -11420,7 +11420,7 @@ function Get-ITGlueUser {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Get-ITGlueUser.html
 
     .LINK
         https://api.itglue.com/developer/#accounts-users-index
@@ -11546,7 +11546,7 @@ function Set-ITGlueUser {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Users/Set-ITGlueUser.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Users/Set-ITGlueUser.html
 
     .LINK
         https://api.itglue.com/developer/#accounts-users-update

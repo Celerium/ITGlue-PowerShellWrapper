@@ -40,10 +40,10 @@ function Export-ITGlueModuleSetting {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Internal/Export-ITGlueModuleSetting.html
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Set')]

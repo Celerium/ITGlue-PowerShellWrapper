@@ -42,7 +42,7 @@
         https://api.itglue.com/developer/#contacts
 
     .LINK
-        https://github.com/Celerium/ITGlue-PowerShellWrapper
+        https://github.com/itglue/powershellwrapper
 #>
 
 <############################################################################################

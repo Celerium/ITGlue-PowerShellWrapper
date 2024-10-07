@@ -39,7 +39,7 @@ function Set-ITGlueFlexibleAssetField {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.html
 
     .LINK
         https://api.itglue.com/developer/#flexible-asset-fields-update

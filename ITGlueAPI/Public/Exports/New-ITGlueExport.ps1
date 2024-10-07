@@ -39,7 +39,7 @@ function New-ITGlueExport {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Exports/New-ITGlueExport.html
 
     .LINK
         https://api.itglue.com/developer/#exports-create

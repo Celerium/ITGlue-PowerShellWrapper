@@ -40,7 +40,7 @@ function New-ITGlueRelatedItem {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/New-ITGlueRelatedItem.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/RelatedItems/New-ITGlueRelatedItem.html
 
     .LINK
         https://api.itglue.com/developer/#related-items-create

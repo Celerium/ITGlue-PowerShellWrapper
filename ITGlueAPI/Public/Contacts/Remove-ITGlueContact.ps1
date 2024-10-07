@@ -65,7 +65,7 @@ function Remove-ITGlueContact {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/Contacts/Remove-ITGlueContact.html
 
     .LINK
         https://api.itglue.com/developer/#contacts-bulk-destroy

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: PasswordCategories
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGluePasswordCategory
@@ -173,7 +173,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/PasswordCategories/Get-ITGluePasswordCategory.html)
 
 [https://api.itglue.com/developer/#password-categories-index](https://api.itglue.com/developer/#password-categories-index)
 

@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: FlexibleAssets
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html
 parent: POST
 schema: 2.0.0
 title: New-ITGlueFlexibleAsset
@@ -120,7 +120,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssets/New-ITGlueFlexibleAsset.html)
 
 [https://api.itglue.com/developer/#flexible-assets-create](https://api.itglue.com/developer/#flexible-assets-create)
 

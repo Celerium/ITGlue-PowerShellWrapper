@@ -11,7 +11,7 @@ When updating the documentation for this project, the tracking CSV plays a huge 
 {: .warning }
 I recommend downloading the CSV from the link provided rather then viewing the table below.
 
-[Tracking CSV](https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/docs/endpoints.csv)
+[Tracking CSV](https://github.com/itglue/powershellwrapper/blob/master/docs/endpoints.csv)
 
 ---
 

@@ -60,7 +60,7 @@ function Get-ITGlueOrganizationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Get-ITGlueOrganizationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Get-ITGlueOrganizationType.html
 
     .LINK
         https://api.itglue.com/developer/#organization-types-index

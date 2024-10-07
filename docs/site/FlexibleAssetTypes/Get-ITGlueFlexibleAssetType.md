@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: FlexibleAssetTypes
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html
 parent: GET
 schema: 2.0.0
 title: Get-ITGlueFlexibleAssetType
@@ -237,7 +237,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.html)
 
 [https://api.itglue.com/developer/#flexible-asset-types-index](https://api.itglue.com/developer/#flexible-asset-types-index)
 

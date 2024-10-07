@@ -60,7 +60,7 @@ function Get-ITGlueConfigurationType {
         N/A
 
     .LINK
-        https://celerium.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Get-ITGlueConfigurationType.html
+        https://itglue.github.io/ITGlue-PowerShellWrapper/site/ConfigurationTypes/Get-ITGlueConfigurationType.html
 
     .LINK
         https://api.itglue.com/developer/#configuration-types-index

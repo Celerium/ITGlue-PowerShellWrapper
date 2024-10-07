@@ -2,7 +2,7 @@
 external help file: ITGlueAPI-help.xml
 grand_parent: OrganizationTypes
 Module Name: ITGlueAPI
-online version: https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html
+online version: https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html
 parent: PATCH
 schema: 2.0.0
 title: Set-ITGlueOrganizationType
@@ -112,7 +112,7 @@ N/A
 
 ## RELATED LINKS
 
-[https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html](https://celerium.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html)
+[https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html](https://itglue.github.io/ITGlue-PowerShellWrapper/site/OrganizationTypes/Set-ITGlueOrganizationType.html)
 
 [https://api.itglue.com/developer/#organization-types-update](https://api.itglue.com/developer/#organization-types-update)
 
