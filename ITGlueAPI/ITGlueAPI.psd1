@@ -18,7 +18,7 @@
     # -- MINOR version when you add functionality in a backwards-compatible manner, and
     # -- PATCH version when you make backwards-compatible bug fixes.
 
-    ModuleVersion = '2.2.0'
+    ModuleVersion = '3.0.0'
 
     # ID used to uniquely identify this module
     GUID = 'f969cff1-3120-4980-8c46-83f2d0bf2521'
@@ -33,7 +33,7 @@
     Description = 'This module provides a PowerShell wrapper for the IT Glue API.'
 
     # Copyright information of this module
-    Copyright = 'https://github.com/itglue/powershellwrapper/blob/master/LICENSE'
+    Copyright = 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE'
 
     # Minimum version of the Windows PowerShell engine required by this module
     PowerShellVersion = '3.0'
@@ -69,163 +69,102 @@
     # FormatsToProcess = @()
 
     # Modules to import as nested modules of the module specified in RootModule/ModuleToProcess
-    NestedModules = 'Internal/BaseURI.ps1',
-                    'Internal/APIKey.ps1',
-                    'Internal/ModuleSettings.ps1',
-                    'Internal/APICalls.ps1',
-                    'Resources/Attachments.ps1',
-                    'Resources/ConfigurationInterfaces.ps1',
-                    'Resources/Configurations.ps1',
-                    'Resources/ConfigurationStatuses.ps1',
-                    'Resources/ConfigurationTypes.ps1',
-                    'Resources/Contacts.ps1',
-                    'Resources/ContactTypes.ps1',
-                    'Resources/Countries.ps1',
-                    'Resources/Documents.ps1',
-                    'Resources/Domains.ps1',
-                    'Resources/Expirations.ps1',
-                    'Resources/FlexibleAssetFields.ps1',
-                    'Resources/FlexibleAssets.ps1',
-                    'Resources/FlexibleAssetTypes.ps1',
-                    'Resources/Groups.ps1',
-                    'Resources/Locations.ps1',
-                    'Resources/Logs.ps1',
-                    'Resources/Manufacturers.ps1',
-                    'Resources/Models.ps1',
-                    'Resources/OperatingSystems.ps1',
-                    'Resources/Organizations.ps1',
-                    'Resources/OrganizationStatuses.ps1',
-                    'Resources/OrganizationTypes.ps1',
-                    'Resources/PasswordCategories.ps1',
-                    'Resources/Passwords.ps1',
-                    'Resources/Platforms.ps1',
-                    'Resources/Regions.ps1',
-                    'Resources/RelatedItems.ps1',
-                    'Resources/UserMetrics.ps1',
-                    'Resources/Users.ps1'
+    NestedModules = 'Private/ApiCalls/ConvertTo-ITGlueQueryString.ps1',
+                    'Private/ApiCalls/Invoke-ITGlueRequest.ps1',
+                    'Private/ApiKeys/Add-ITGlueAPIKey.ps1',
+                    'Private/ApiKeys/Get-ITGlueAPIKey.ps1',
+                    'Private/ApiKeys/Remove-ITGlueAPIKey.ps1',
+                    'Private/ApiKeys/Test-ITGlueAPIKey.ps1',
+                    'Private/BaseUri/Add-ITGlueBaseURI.ps1',
+                    'Private/BaseUri/Get-ITGlueBaseURI.ps1',
+                    'Private/BaseUri/Remove-ITGlueBaseURI.ps1',
+                    'Private/ModuleSettings/Export-ITGlueModuleSetting.ps1',
+                    'Private/ModuleSettings/Get-ITGlueModuleSetting.ps1',
+                    'Private/ModuleSettings/Import-ITGlueModuleSetting.ps1',
+                    'Private/ModuleSettings/Initialize-ITGlueModuleSetting.ps1',
+                    'Private/ModuleSettings/Remove-ITGlueModuleSetting.ps1',
+                    'Public/Attachments/New-ITGlueAttachment.ps1',
+                    'Public/Attachments/Remove-ITGlueAttachment.ps1',
+                    'Public/Attachments/Set-ITGlueAttachment.ps1',
+                    'Public/ConfigurationInterfaces/Get-ITGlueConfigurationInterface.ps1',
+                    'Public/ConfigurationInterfaces/New-ITGlueConfigurationInterface.ps1',
+                    'Public/ConfigurationInterfaces/Set-ITGlueConfigurationInterface.ps1',
+                    'Public/ConfigurationStatuses/Get-ITGlueConfigurationStatus.ps1',
+                    'Public/ConfigurationStatuses/New-ITGlueConfigurationStatus.ps1',
+                    'Public/ConfigurationStatuses/Set-ITGlueConfigurationStatus.ps1',
+                    'Public/ConfigurationTypes/Get-ITGlueConfigurationType.ps1',
+                    'Public/ConfigurationTypes/New-ITGlueConfigurationType.ps1',
+                    'Public/ConfigurationTypes/Set-ITGlueConfigurationType.ps1',
+                    'Public/Configurations/Get-ITGlueConfiguration.ps1',
+                    'Public/Configurations/New-ITGlueConfiguration.ps1',
+                    'Public/Configurations/Remove-ITGlueConfiguration.ps1',
+                    'Public/Configurations/Set-ITGlueConfiguration.ps1',
+                    'Public/ContactTypes/Get-ITGlueContactType.ps1',
+                    'Public/ContactTypes/New-ITGlueContactType.ps1',
+                    'Public/ContactTypes/Set-ITGlueContactType.ps1',
+                    'Public/Contacts/Get-ITGlueContact.ps1',
+                    'Public/Contacts/New-ITGlueContact.ps1',
+                    'Public/Contacts/Remove-ITGlueContact.ps1',
+                    'Public/Contacts/Set-ITGlueContact.ps1',
+                    'Public/Countries/Get-ITGlueCountry.ps1',
+                    'Public/Documents/Set-ITGlueDocument.ps1',
+                    'Public/Domains/Get-ITGlueDomain.ps1',
+                    'Public/Expirations/Get-ITGlueExpiration.ps1',
+                    'Public/Exports/Get-ITGlueExport.ps1',
+                    'Public/Exports/New-ITGlueExport.ps1',
+                    'Public/Exports/Remove-ITGlueExport.ps1',
+                    'Public/FlexibleAssetFields/Get-ITGlueFlexibleAssetField.ps1',
+                    'Public/FlexibleAssetFields/New-ITGlueFlexibleAssetField.ps1',
+                    'Public/FlexibleAssetFields/Remove-ITGlueFlexibleAssetField.ps1',
+                    'Public/FlexibleAssetFields/Set-ITGlueFlexibleAssetField.ps1',
+                    'Public/FlexibleAssetTypes/Get-ITGlueFlexibleAssetType.ps1',
+                    'Public/FlexibleAssetTypes/New-ITGlueFlexibleAssetType.ps1',
+                    'Public/FlexibleAssetTypes/Set-ITGlueFlexibleAssetType.ps1',
+                    'Public/FlexibleAssets/Get-ITGlueFlexibleAsset.ps1',
+                    'Public/FlexibleAssets/New-ITGlueFlexibleAsset.ps1',
+                    'Public/FlexibleAssets/Remove-ITGlueFlexibleAsset.ps1',
+                    'Public/FlexibleAssets/Set-ITGlueFlexibleAsset.ps1',
+                    'Public/Groups/Get-ITGlueGroup.ps1',
+                    'Public/Locations/Get-ITGlueLocation.ps1',
+                    'Public/Locations/New-ITGlueLocation.ps1',
+                    'Public/Locations/Remove-ITGlueLocation.ps1',
+                    'Public/Locations/Set-ITGlueLocation.ps1',
+                    'Public/Logs/Get-ITGlueLog.ps1',
+                    'Public/Manufacturers/Get-ITGlueManufacturer.ps1',
+                    'Public/Manufacturers/New-ITGlueManufacturer.ps1',
+                    'Public/Manufacturers/Set-ITGlueManufacturer.ps1',
+                    'Public/Models/Get-ITGlueModel.ps1',
+                    'Public/Models/New-ITGlueModel.ps1',
+                    'Public/Models/Set-ITGlueModel.ps1',
+                    'Public/OperatingSystems/Get-ITGlueOperatingSystem.ps1',
+                    'Public/OrganizationStatuses/Get-ITGlueOrganizationStatus.ps1',
+                    'Public/OrganizationStatuses/New-ITGlueOrganizationStatus.ps1',
+                    'Public/OrganizationStatuses/Set-ITGlueOrganizationStatus.ps1',
+                    'Public/OrganizationTypes/Get-ITGlueOrganizationType.ps1',
+                    'Public/OrganizationTypes/New-ITGlueOrganizationType.ps1',
+                    'Public/OrganizationTypes/Set-ITGlueOrganizationType.ps1',
+                    'Public/Organizations/Get-ITGlueOrganization.ps1',
+                    'Public/Organizations/New-ITGlueOrganization.ps1',
+                    'Public/Organizations/Remove-ITGlueOrganization.ps1',
+                    'Public/Organizations/Set-ITGlueOrganization.ps1',
+                    'Public/PasswordCategories/Get-ITGluePasswordCategory.ps1',
+                    'Public/PasswordCategories/New-ITGluePasswordCategory.ps1',
+                    'Public/PasswordCategories/Set-ITGluePasswordCategory.ps1',
+                    'Public/Passwords/Get-ITGluePassword.ps1',
+                    'Public/Passwords/New-ITGluePassword.ps1',
+                    'Public/Passwords/Remove-ITGluePassword.ps1',
+                    'Public/Passwords/Set-ITGluePassword.ps1',
+                    'Public/Platforms/Get-ITGluePlatform.ps1',
+                    'Public/Regions/Get-ITGlueRegion.ps1',
+                    'Public/RelatedItems/New-ITGlueRelatedItem.ps1',
+                    'Public/RelatedItems/Remove-ITGlueRelatedItem.ps1',
+                    'Public/RelatedItems/Set-ITGlueRelatedItem.ps1',
+                    'Public/UserMetrics/Get-ITGlueUserMetric.ps1',
+                    'Public/Users/Get-ITGlueUser.ps1',
+                    'Public/Users/Set-ITGlueUser.ps1'
 
-    # Functions to export from this module
-    FunctionsToExport = 'Add-ITGlueAPIKey',
-                        'Get-ITGlueAPIKey',
-                        'Remove-ITGlueAPIKey',
-                        'Test-ITGlueAPIKey',
-
-                        'Add-ITGlueBaseURI',
-                        'Get-ITGlueBaseURI',
-                        'Remove-ITGlueBaseURI',
-
-                        'Export-ITGlueModuleSettings',
-                        'Import-ITGlueModuleSettings',
-                        'Remove-ITGlueModuleSettings',
-
-                        'New-ITGlueAttachments',
-                        'Set-ITGlueAttachments',
-                        'Remove-ITGlueAttachments',
-
-                        'New-ITGlueConfigurationInterfaces',
-                        'Get-ITGlueConfigurationInterfaces',
-                        'Set-ITGlueConfigurationInterfaces',
-
-                        'New-ITGlueConfigurationStatuses',
-                        'Get-ITGlueConfigurationStatuses',
-                        'Set-ITGlueConfigurationStatuses',
-
-                        'New-ITGlueConfigurationTypes',
-                        'Get-ITGlueConfigurationTypes',
-                        'Set-ITGlueConfigurationTypes',
-
-                        'New-ITGlueConfigurations',
-                        'Get-ITGlueConfigurations',
-                        'Set-ITGlueConfigurations',
-                        'Remove-ITGlueConfigurations',
-
-                        'New-ITGlueContactTypes',
-                        'Get-ITGlueContactTypes',
-                        'Set-ITGlueContactTypes',
-
-                        'New-ITGlueContacts',
-                        'Get-ITGlueContacts',
-                        'Set-ITGlueContacts',
-                        'Remove-ITGlueContacts',
-
-                        'Get-ITGlueCountries',
-
-                        'Set-ITGlueDocuments',
-
-                        'Get-ITGlueDomains',
-
-                        'Get-ITGlueExpirations',
-
-                        'New-ITGlueFlexibleAssetFields',
-                        'Get-ITGlueFlexibleAssetFields',
-                        'Set-ITGlueFlexibleAssetFields',
-                        'Remove-ITGlueFlexibleAssetFields',
-
-                        'New-ITGlueFlexibleAssetTypes',
-                        'Get-ITGlueFlexibleAssetTypes',
-                        'Set-ITGlueFlexibleAssetTypes',
-
-                        'New-ITGlueFlexibleAssets',
-                        'Get-ITGlueFlexibleAssets',
-                        'Set-ITGlueFlexibleAssets',
-                        'Remove-ITGlueFlexibleAssets',
-
-                        'Get-ITGlueGroups',
-
-                        'New-ITGlueLocations',
-                        'Get-ITGlueLocations',
-                        'Set-ITGlueLocations',
-                        'Remove-ITGlueLocations',
-
-                        'Get-ITGlueLogs',
-
-                        'New-ITGlueManufacturers',
-                        'Get-ITGlueManufacturers',
-                        'Set-ITGlueManufacturers',
-
-                        'New-ITGlueModels',
-                        'Get-ITGlueModels',
-                        'Set-ITGlueModels',
-
-                        'Get-ITGlueOperatingSystems',
-
-                        'New-ITGlueOrganizationStatuses',
-                        'Get-ITGlueOrganizationStatuses',
-                        'Set-ITGlueOrganizationStatuses',
-
-                        'New-ITGlueOrganizationTypes',
-                        'Get-ITGlueOrganizationTypes',
-                        'Set-ITGlueOrganizationTypes',
-
-                        'New-ITGlueOrganizations',
-                        'Get-ITGlueOrganizations',
-                        'Set-ITGlueOrganizations',
-                        'Remove-ITGlueOrganizations',
-
-                        'New-ITGluePasswordCategories',
-                        'Get-ITGluePasswordCategories',
-                        'Set-ITGluePasswordCategories',
-
-                        'New-ITGluePasswords',
-                        'Get-ITGluePasswords',
-                        'Set-ITGluePasswords',
-                        'Remove-ITGluePasswords',
-
-                        'Get-ITGluePlatforms',
-
-                        'Get-ITGlueRegions',
-
-                        'New-ITGlueRelatedItems',
-                        'Set-ITGlueRelatedItems',
-                        'Remove-ITGlueRelatedItems',
-
-                        'Get-ITGlueUserMetrics',
-
-                        'Get-ITGlueUsers',
-                        'Set-ITGlueUsers'
-
-
-    #FunctionsToExport = '*'
+    # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
+    FunctionsToExport = '*'
 
     # Cmdlets to export from this module
     CmdletsToExport = @()
@@ -247,25 +186,25 @@
         PSData = @{
 
             # Tags applied to this module. These help with module discovery in online galleries.
-            # Tags = @()
+            Tags = @('ITGlue', 'Kaseya', 'PowerShell', 'Windows', 'MacOS', 'Linux', 'PSEdition_Desktop', 'PSEdition_Core')
 
             # A URL to the license for this module.
-            LicenseUri = 'https://github.com/itglue/powershellwrapper/blob/master/LICENSE'
+            LicenseUri = 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/LICENSE'
 
             # A URL to the main website for this project.
-            ProjectUri = 'https://github.com/itglue/powershellwrapper'
+            ProjectUri = 'https://github.com/Celerium/ITGlue-PowerShellWrapper'
 
             # A URL to an icon representing this module.
-            # IconUri = ''
+            IconUri = 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/.github/images/PoSHGallery_ITGlueAPI.png'
 
             # ReleaseNotes of this module
-            # ReleaseNotes = ''
+            ReleaseNotes = 'https://github.com/Celerium/ITGlue-PowerShellWrapper/blob/master/README.md'
 
-            # Prerelease string of this module
-            # Prerelease = ''
+            # Identifies the module as a prerelease version in online galleries.
+            #PreRelease = '-BETA'
 
-            # Flag to indicate whether the module requires explicit user acceptance for install/update/save
-            # RequireLicenseAcceptance = $true
+            # Indicate whether the module requires explicit user acceptance for install, update, or save.
+            RequireLicenseAcceptance = $false
 
             # External dependent modules of this module
             # ExternalModuleDependencies = @()
